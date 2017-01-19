@@ -17,8 +17,14 @@ let j = (json) =>  {
 }
 
 let b = () => {
+  let brns = []
+  Object.keys(brands).forEach(br => {
+    let name = brands[br].name
+    let url = brands[br].url
+    brns.push({name, url})
+  })
   return {
-    brands: Object.keys(brands),
+    brands: brns,
     type: 'brands',
   }
 }
