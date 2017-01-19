@@ -1,6 +1,8 @@
 const serverRouter = require('server-router')
 const http = require('http')
 
+const PORT = process.env.PORT || 3000
+
 const { brands } = require('./data')
 
 const info = `
@@ -52,4 +54,4 @@ const router = serverRouter([
   ['/404', (req, res) => res.end( j({error: 'not found'}) )],
 ])
 
-http.createServer(router).listen(3000)
+http.createServer(router).listen(PORT)
