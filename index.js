@@ -16,7 +16,7 @@ let j = (json) =>  {
   return JSON.stringify(json)
 }
 
-let b = () => {
+let AllBrands = (req) => {
   let brns = []
   Object.keys(brands).forEach(br => {
     let name = brands[br].name
@@ -25,11 +25,11 @@ let b = () => {
   })
   return {
     brands: brns,
-    type: 'brands',
+    type: 'AllBrands',
   }
 }
 
-let bN = (n) => {
+let Brand = (req, n) => {
   let name = brands[ n ].name
   let pro = brands[ n ].products
   let productTypes = []
@@ -39,24 +39,48 @@ let bN = (n) => {
       count: pro[p].length,
     })
   })
-  let type = 'name'
-  return { name, productTypes, type }
+  let type = 'Brand'
+  return {
+    name,
+    productTypes,
+    type,
+  }
 }
 
-let bP = (name, product) => {
-  let pro = brands[ name ].products[ product ]
+let AllProducts = (req, name, product) => {
+  let products = []
+  brands[ name ].products[ product ].forEach(p => {
+    let name = p.name
+    let image = (p.images.length > 0) ? p.images[0] : ''
+    products.push({
+      name,
+      image
+    })
+  })
+  let length = products.length
+  let type = 'AllProducts'
   return {
-    products: pro,
-    length: pro.length,
-    type: 'product',
+    products,
+    length,
+    type,
+  }
+}
+
+let Product = (req, name, product, id) => {
+  let pid = parseInt(id)
+  let pro = brands[ name ].products[ product ][ pid ]
+  return {
+    product: pro,
+    type: 'Product',
   }
 }
 
 const router = serverRouter([
   ['/', (req, res) => res.end(info)],
-  ['/brands', (req, res) => res.end( j( b() ) )],
-  ['/brands/:name', (req, res, params) => res.end( j( bN(params.name) ) )],
-  ['/brands/:name/:product', (req, res, params) => res.end( j( bP(params.name, params.product) ) )],
+  ['/brands', (req, res) => res.end( j( AllBrands(req) ) )],
+  ['/brands/:name', (req, res, params) => res.end( j( Brand(req, params.name) ) )],
+  ['/brands/:name/:product', (req, res, params) => res.end( j( AllProducts(req, params.name, params.product) ) )],
+  ['/brands/:name/:product/:id', (req, res, params) => res.end( j( Product(req, params.name, params.product, params.id) ) )],
   ['/404', (req, res) => res.end( j({error: 'not found'}) )],
 ])
 
