@@ -274,7 +274,6 @@ module.exports = knex => {
       .from("product")
       .innerJoin("brand", "product.brand", "=", "brand.id")
       .where({ type: type })
-      .limit(10)
       .then(products => {
         let infos = products.map(product => {
           let specs = product.specs;
