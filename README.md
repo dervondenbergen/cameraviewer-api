@@ -4,7 +4,11 @@ This is the source of information for https://github.com/dervondenbergen/camerav
 
 All Data is not self collected but from https://www.dpreview.com/products/cameras
 
-Data from `cameras.json` and `lenses.json` files is scraped with [data/get-data.js](data/get-data.js)
+## Setup
+
+Data is saved in a postgres DB. To set it up create a DB called `cameraviewer`. Then run `node setupDB.js` to create the tables.
+
+Actual Data gets saved by visiting the endpoint `/update/brand`, `/update/camera`, `/update/lens` in given order.
 
 ## Usage
 

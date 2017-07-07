@@ -1,0 +1,1045 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+
+
+
+
+
+
+    <title>Sony Alpha a9: Digital Photography Review</title>
+
+    <meta name="description" content="Digital Photography Review: All the latest digital camera reviews and digital imaging news. Lively discussion forums. Vast samples galleries and the largest database of digital camera specifications.">
+
+    <link href="//fonts.googleapis.com/css?family=Open+Sans:400,400italic,700,700italic" rel="stylesheet" type="text/css">
+
+    <link rel="stylesheet" type="text/css" href="https://1.img-dpreview.com/resources/styles/Common.min.css?v=4098">
+    <link rel="stylesheet" type="text/css" href="https://4.img-dpreview.com/resources/styles/Sidebar.min.css?v=4098">
+
+    <script type="text/javascript" language="javascript" src="https://2.img-dpreview.com/resources/scripts/libraries/jquery.min.js?v=4098"></script>
+    <script type="text/javascript" language="javascript" src="https://1.img-dpreview.com/resources/scripts/libraries/jquery-ui.min.js?v=4098"></script><script type="text/javascript" language="javascript" src="https://1.img-dpreview.com/resources/scripts/libraries/jquery-ui.touch-punch.min.js?v=4098"></script>
+
+    <script type="text/javascript">var GlobalSettings = {"isLive":true,"readOnlyMode":false,"mainHostName":"www.dpreview.com","enableProtocolRequire":true,"assetsHostName":["1.img-dpreview.com","2.img-dpreview.com","3.img-dpreview.com","4.img-dpreview.com"],"assetsVersion":4098,"location":"US","mobile":false,"loginUrl":"https://login.dpreview.com/login?returnUrl=https%3a%2f%2fwww.dpreview.com%2fpost-login&site=dpr&device=desktop","registerUrl":"https://login.dpreview.com/register?returnUrl=https%3a%2f%2fwww.dpreview.com%2fpost-login&site=dpr&device=desktop","cookieDomain":".dpreview.com"}; document.domain = "dpreview.com";</script>
+
+    <script type="text/javascript" language="javascript" src="https://4.img-dpreview.com/resources/scripts/min/Common.js?v=4098"></script>
+
+    
+        <script type="text/javascript">
+            var googletag = googletag || {};
+            googletag.cmd = googletag.cmd || [];
+        </script>
+
+    <script type="text/javascript" src="//www.googletagservices.com/tag/js/gpt.js" async="async"></script>
+
+    
+
+    <script type="text/javascript">
+AdUtils.initAdSlots("/4215/amzn.dprev.main/products", [{"name":"prestitial","sizes":[[640,480],[300,250]],"id":"adSlot_prestitial","pos":"prestitial"},{"name":"center","sizes":[[728,90],[970,250]],"id":"adSlot_center","pos":"center"},{"name":"top","sizes":[[300,250],[300,600],[300,1050]],"id":"adSlot_top","pos":"top"},{"name":"bottom","sizes":[[300,250],[300,600]],"id":"adSlot_bottom","pos":"bottom"}], [{"name":"p","value":"sony_a9"},{"name":"b","value":"Sony"},{"name":"cat","value":"cameras"},{"name":"subcat","value":"slrs"}], "3aaa6ddc0076403eb50cee87ff5e7ee8");    </script>
+        <meta name="apple-mobile-web-app-title" content="Digital Photography Review">
+    <meta name="application-name" content="Digital Photography Review">
+    <meta name="msapplication-config" content="/resources/favicons/browserconfig.xml?v=2">
+    <meta name="theme-color" content="#ffffff">
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/resources/favicons/apple-touch-icon.png?v=2">
+    <link rel="icon" type="image/png" href="/resources/favicons/favicon-32x32.png?v=2" sizes="32x32">
+    <link rel="icon" type="image/png" href="/resources/favicons/favicon-16x16.png?v=2" sizes="16x16">
+    <link rel="manifest" href="/resources/favicons/manifest.json?v=2">
+    <link rel="mask-icon" href="/resources/favicons/safari-pinned-tab.svg?v=2" color="#5bbad5">
+    <link rel="shortcut icon" href="/resources/favicons/favicon.ico?v=2">
+
+    <script type="text/javascript">
+        if (window != top) { top.location = location; }
+    </script>
+
+    <link rel="alternate" type="application/rss+xml" title="News: Digital Photography Review (dpreview.com)" href="http://www.dpreview.com/feeds/news.xml">
+    <link rel="alternate" type="application/rss+xml" title="Reviews: Digital Photography Review (dpreview.com)" href="http://www.dpreview.com/feeds/reviews.xml">
+    <link rel="alternate" type="application/rss+xml" title="Latest cameras: Digital Photography Review (dpreview.com)" href="http://www.dpreview.com/feeds/latest.xml">
+
+    
+
+    <link rel="stylesheet" type="text/css" href="https://1.img-dpreview.com/resources/styles/Extended.min.css?v=4098">
+    <link rel="stylesheet" type="text/css" href="https://1.img-dpreview.com/resources/styles/ProductsCommon.min.css?v=4098">
+    <link rel="stylesheet" type="text/css" href="https://1.img-dpreview.com/resources/styles/ProductsShared.min.css?v=4098">
+    <link rel="stylesheet" type="text/css" href="https://1.img-dpreview.com/resources/styles/Buyboxes.min.css?v=4098">
+    <link rel="stylesheet" type="text/css" href="https://3.img-dpreview.com/resources/styles/Product.min.css?v=4098">
+
+    <script type="text/javascript" language="javascript" src="https://2.img-dpreview.com/resources/scripts/min/Extended.js?v=4098"></script>
+    <script type="text/javascript" language="javascript" src="https://1.img-dpreview.com/resources/scripts/min/UserGearList.js?v=4098"></script>
+    <script type="text/javascript" language="javascript" src="https://3.img-dpreview.com/resources/scripts/min/ProductPage.js?v=4098"></script>
+
+    <link rel="stylesheet" type="text/css" href="https://2.img-dpreview.com/resources/styles/ShortList.min.css?v=4098">
+
+<script type="text/javascript" language="javascript" src="https://4.img-dpreview.com/resources/scripts/libraries/persist.min.js?v=4098"></script>
+<script type="text/javascript" language="javascript" src="https://1.img-dpreview.com/resources/scripts/min/ShortList.js?v=4098"></script>
+
+<script type="text/javascript">
+    $(document).ready(function()
+    {
+        ShortList({"productCategories":[{"label":"cameras","id":"cameras"},{"label":"lenses","id":"lenses"},{"label":"mobile phones","id":"mobilephones"},{"label":"printers","id":"printers"},{"label":"software","id":"software"},{"label":"tablets","id":"tablets"},{"label":"mobile applications","id":"mobileapps"},{"label":"tripods and supports","id":"tripods"},{"label":"flashes and on-camera lights","id":"flashes-and-on-camera-lights"},{"label":"bags and cases","id":"bags-and-cases"},{"label":"batteries and power","id":"batteries-and-power"},{"label":"camera straps","id":"camera-straps"},{"label":"filters","id":"filters"},{"label":"memory cards and readers","id":"memory-cards-and-readers"},{"label":"lens accessories","id":"lens-accessories"},{"label":"system accessories","id":"system-accessories"},{"label":"cleaning supplies","id":"cleaning-supplies"},{"label":"TVs","id":"tvs"}]});
+    });
+</script>
+
+    <meta property="og:url" content="https://www.dpreview.com/products/sony/slrs/sony_a9">
+<meta property="og:title" content="Sony Alpha a9: Digital Photography Review">
+<meta property="og:image" content="https://www.dpreview.com/files/p/E~products/sony_a9/shots/288294054d0640c3a9c6dfc78e9dfae2.png">
+
+
+    <script type="text/javascript">
+        $(document).ready(function()
+        {
+            ProductController({"productDprCode":"sony_a9","productImages":["https://2.img-dpreview.com/files/p/TS375x375~products/sony_a9/shots/288294054d0640c3a9c6dfc78e9dfae2.png","https://2.img-dpreview.com/files/p/TS375x375~products/sony_a9/shots/5dc6f33ba2414092ae9afbd44f3bb133.png","https://4.img-dpreview.com/files/p/TS375x375~products/sony_a9/shots/18cb6af02da54f459acacf5a031b01a0.png","https://1.img-dpreview.com/files/p/TS375x375~products/sony_a9/shots/1f4941b55f054b22aba90918d94651cc.png","https://3.img-dpreview.com/files/p/TS375x375~products/sony_a9/shots/6d62f871e5854d1d8271be1f80b03559.png","https://3.img-dpreview.com/files/p/TS375x375~products/sony_a9/shots/8dc0d0e51ec14461b2ca15a4475d61c1.png"]});
+        });
+    </script>
+
+
+
+</head>
+
+<body class="light noTouch">
+
+    <div id="adSlot_prestitial" class="ad collapsed" style="height: 250px;"><script type="text/javascript">googletag.cmd.push(function() { googletag.display("adSlot_prestitial"); AdUtils.trackImpression("prestitial"); });</script></div>
+
+
+
+    <div id="mainBody">
+
+        
+
+
+
+<div id="adSlot_center" class="ad center" style="height: 90px;"><script type="text/javascript">googletag.cmd.push(function() { googletag.display("adSlot_center"); AdUtils.trackImpression("center"); });</script></div>
+
+<div class="siteHeaderSocialContainer">
+    <div class="socialAndTheme">
+        <div class="social">
+            <a href="https://www.facebook.com/dpreview" class="facebook">Facebook</a>
+            <a href="https://www.twitter.com/dpreview" class="twitter">Twitter</a>
+            <a href="https://www.youtube.com/dpreview" class="youtube">YouTube</a>
+            <a href="https://www.instagram.com/dpreview" class="instagram">Instagram</a>
+                <a href="https://www.dpreview.com/subscribe-to-newsletter" class="newsletter">Sign up for our weekly newsletter!</a>
+        </div>
+        <div class="theme" id="themeToggle">
+            Reading mode:
+            <span class="option light">Light</span>
+            <span class="option dark">Dark</span>
+        </div>
+    </div>
+</div>
+
+<div class="siteHeaderContainer">
+    <div class="siteHeader">
+
+        <div class="logo">
+            <a href="https://www.dpreview.com"></a>
+        </div>
+
+        <div class="userTools">
+
+                <a href="https://login.dpreview.com/login?returnUrl=https%3a%2f%2fwww.dpreview.com%2fpost-login&amp;site=dpr&amp;device=desktop">Login</a> |
+                <a href="https://login.dpreview.com/register?returnUrl=https%3a%2f%2fwww.dpreview.com%2fpost-login&amp;site=dpr&amp;device=desktop">Register</a>
+
+        </div>
+
+        <div class="searchContainer">
+            <div class="mainSiteSearch" id="mainSiteSearch">
+                <form method="get" action="https://www.dpreview.com/search">
+                    <input type="text" name="query" class="searchBox" placeholder="Search dpreview.com" autocomplete="off">
+                    <input type="submit" class="submitBtn" value="">
+                </form>
+                <script type="text/javascript">
+                    $(document).ready(function()
+                    {
+                        MainSiteSearch();
+                    });
+                </script>
+            </div>
+        </div>
+
+    </div>
+</div>
+
+<div class="siteNav">
+    <div class="mainMenu"><a href="https://www.dpreview.com" class="mainItem"><span class="label">News</span></a><a href="https://www.dpreview.com/reviews" class="mainItem"><span class="label">Reviews</span></a><a href="https://www.dpreview.com/features" class="mainItem"><span class="label">Articles</span></a><a href="https://www.dpreview.com/buying-guides" class="mainItem"><span class="label">Buying Guide</span></a><a href="https://www.dpreview.com/sample-galleries" class="mainItem"><span class="label">Sample Images</span></a><a href="https://www.dpreview.com/videos" class="mainItem"><span class="label">Videos</span></a><a href="https://www.dpreview.com/products/cameras" class="mainItem"><span class="label">Cameras</span></a><a href="https://www.dpreview.com/products/lenses" class="mainItem"><span class="label">Lenses</span></a><a href="https://www.dpreview.com/connect" class="mainItem"><span class="label">Phones</span></a><a href="https://www.dpreview.com/products/printers" class="mainItem"><span class="label">Printers</span></a><a href="https://www.dpreview.com/forums" class="mainItem"><span class="label">Forums</span></a><a href="https://www.dpreview.com/galleries" class="mainItem"><span class="label">Galleries</span></a><a href="https://www.dpreview.com/challenges" class="mainItem"><span class="label">Challenges</span></a></div>
+    <script type="text/javascript" src="https://3.img-dpreview.com/nav/F7FA26EE6D438AF22DB0CAEA44D500AA/mainmenu-s.js"></script>
+</div>
+
+
+        <div class="mainContentSidebarAndFooter">
+            <div class="mainContentAndSidebar">
+                <div id="mainContent" class="mainContent">
+                    
+
+
+
+
+
+<div itemscope itemtype="http://schema.org/Product">
+
+    <meta itemprop="brand" content="Sony">
+
+    <div class="headerContainer">
+        
+<div class="breadcrumbs"><a class="item" href="https://www.dpreview.com/products/">Brand index</a><span class="separator"></span><a class="item" href="https://www.dpreview.com/products/sony">Sony</a><span class="separator"></span><a class="item" href="https://www.dpreview.com/products/slrs/sony">Sony Interchangeable Lens Cameras</a><span class="separator"></span><span class="item"></span></div>
+<h1 itemprop="name">Sony Alpha a9</h1>
+
+<div class="shortSpecs">
+    <span class="greyLabel">Announced</span> Apr 19, 2017
+ &bull;     <div class="singleline shortProductSpecs">24 <span class="unitsSuffix">megapixels</span> | 3<span class="unitsSuffix">&#8243;</span> screen | Full frame sensor</div>
+</div>
+
+<div class="navigation">
+    
+<div class="tabNavigation">
+
+    <div class="tabs" id="productPageTabs"><ul class="tabs"><li class="leftmost selected maintab"><a class="maintab" href="/products/sony/slrs/sony_a9/overview"><span class="middle"><span class="left"><span class="right"><span class="text">Home</span></span></span></span></a></li><li class="maintab"><a class="maintab" href="/products/sony/slrs/sony_a9/specifications"><span class="middle"><span class="left"><span class="right"><span class="text">Specs</span></span></span></span></a></li><li class="maintab"><a class="maintab" href="/products/sony/slrs/sony_a9/review"><span class="middle"><span class="left"><span class="right"><span class="text">Review</span></span></span></span></a></li><li class="maintab"><a class="maintab" href="/products/sony/slrs/sony_a9/sample-photos"><span class="middle"><span class="left"><span class="right"><span class="text">Samples</span></span></span></span></a></li><li class="maintab"><a class="maintab" href="/products/sony/slrs/sony_a9/user-reviews"><span class="middle"><span class="left"><span class="right"><span class="text">User reviews (1)</span></span></span></span></a></li><li class="maintab"><a class="maintab" href="/products/sony/slrs/sony_a9/questions-and-answers"><span class="middle"><span class="left"><span class="right"><span class="text">Q&amp;As (36)</span></span></span></span></a></li><li class="maintab"><a class="maintab" href="/products/sony/slrs/sony_a9/buy"><span class="middle"><span class="left"><span class="right"><span class="text">Buy</span></span></span></span></a></li></ul></div><script type="text/javascript">Tabs({"mainElementId":"productPageTabs","tabContentElementId":"tabContent"});</script>
+
+</div>
+</div>
+    </div>
+
+    <div class="productOverviewPage">
+        <div class="section">
+
+            <div class="leftColumn productShotsContainer">
+
+                <div class="shortlistContainer" id="shortlistContainer">
+                    <span class="shortlistCheckbox"></span>
+                    <span class="text">Add this product to your shortlist for comparison</span>
+                </div>
+
+                    <div class="productImage" id="productImage" style="background-image: url(https://2.img-dpreview.com/files/p/TS375x375~products/sony_a9/shots/288294054d0640c3a9c6dfc78e9dfae2.png); height: 375px;"></div>
+                    <meta itemprop="image" content="https://www.dpreview.com/files/p/E~products/sony_a9/shots/288294054d0640c3a9c6dfc78e9dfae2.png">
+                        <div class="productShotThumbnails" id="productShotThumbnails" style="">
+                            <div class="productShotThumbnail selected" style="background-image: url(https://2.img-dpreview.com/files/p/TS40x40~products/sony_a9/shots/288294054d0640c3a9c6dfc78e9dfae2.png)"></div>
+                                <div class="productShotThumbnail" style="background-image: url(https://2.img-dpreview.com/files/p/TS40x40~products/sony_a9/shots/5dc6f33ba2414092ae9afbd44f3bb133.png)"></div>
+                                <div class="productShotThumbnail" style="background-image: url(https://4.img-dpreview.com/files/p/TS40x40~products/sony_a9/shots/18cb6af02da54f459acacf5a031b01a0.png)"></div>
+                                <div class="productShotThumbnail" style="background-image: url(https://1.img-dpreview.com/files/p/TS40x40~products/sony_a9/shots/1f4941b55f054b22aba90918d94651cc.png)"></div>
+                                <div class="productShotThumbnail" style="background-image: url(https://3.img-dpreview.com/files/p/TS40x40~products/sony_a9/shots/6d62f871e5854d1d8271be1f80b03559.png)"></div>
+                                <div class="productShotThumbnail" style="background-image: url(https://3.img-dpreview.com/files/p/TS40x40~products/sony_a9/shots/8dc0d0e51ec14461b2ca15a4475d61c1.png)"></div>
+                        </div>
+
+
+
+            </div>
+
+            <div class="rightColumn productSummaryContainer">
+
+                    <div class="item" itemprop="review" itemscope itemtype="http://schema.org/Review">
+                            <div class="award">
+                                <div class="productBadgeAndScore gold withBadge withScore large horizontal"><a href="https://www.dpreview.com/reviews/sony-a9-full-review"><span class="badge"><img src="https://4.img-dpreview.com/resources/images/award-badge-gold.png?v=4098" width="90" height="55" alt="Gold Award" title="Gold Award"></span></a><a href="https://www.dpreview.com/reviews/sony-a9-full-review"><span class="score"><span class="value">89%</span><br><span class="text">Gold Award</span></span></a></div>
+                            </div>
+                        <div class="roundedBox badge">
+                            <div itemprop="datePublished">
+                                Reviewed Jun 14, 2017
+                            </div>
+                                <div class="reviewMedia">
+                                        <div class="greyLabel">
+                                            &nbsp;&bull;
+                                            <a href="/products/sony/slrs/sony_a9/sample-photos" style="display: inline;">
+                                                100 sample photos
+                                            </a>
+                                        </div>
+                                                                            <div class="greyLabel">&nbsp;&bull;
+                                            <a href="/products/sony/slrs/sony_a9/sample-photos" style="display: inline;">
+                                                3 sample videos
+                                            </a>
+                                        </div>
+                                </div>
+                            <a href="https://www.dpreview.com/reviews/sony-a9-full-review" class="actionButtonLink">
+                                <span class="actionButton">
+                                    Review
+                                    <span class="icon"><span class="arrow"></span></span>
+                                </span>
+                            </a>
+                        </div>
+                    </div>
+
+                <div class="item smallBuybox" id="productOverviewSmallBuybox"><div class="greyLabel uppercase label">Buy on Amazon.com</div><div class="roundedBox"><div class="main"><div class="productName">12 options</div><div class="price range"><span class="start">$4,498.00</span><span class="sep"> &ndash; </span><span class="end">$8,234.49</span></div><a href="https://www.amazon.com/Sony-ILCE9-B-a9-Parent/dp/B0722CDVSV?SubscriptionId=AKIAJHZHL2PTF4QQSIQA&amp;tag=dpreview-minibbx-prodp-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B0722CDVSV" class="actionButtonLink buyboxLink" data-type="gearshop-small"><span class="actionButton grey">Buy on Amazon.com <span class="icon"><span class="arrow"></span></span></span></a></div><div class="expander"><div class="sliderContainer"><div class="sliderPane"><div class="offersAndToggle"><div class="offers"><a class="offer buyboxLink" href="https://www.amazon.com/Sony-ILCE9-B-a9-Parent/dp/B0722CDVSV?SubscriptionId=AKIAJHZHL2PTF4QQSIQA&amp;tag=dpreview-minibbx-prodp-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B0722CDVSV" data-type="gearshop-small"><span class="name">Base, Accessory Bundle</span><span class="priceOptions"><span class="price">$5,736.49</span></span></a><a class="offer buyboxLink" href="https://www.amazon.com/Sony-ILCE9-B-a9-Parent/dp/B06ZY7GNKN?SubscriptionId=AKIAJHZHL2PTF4QQSIQA&amp;tag=dpreview-minibbx-prodp-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B06ZY7GNKN" data-type="gearshop-small"><span class="name">Base, Base</span><span class="priceOptions"><span class="price">$4,498.00</span></span></a><a class="offer buyboxLink" href="https://www.amazon.com/Sony-ILCE9-B-a9-Parent/dp/B072B5GVVK?SubscriptionId=AKIAJHZHL2PTF4QQSIQA&amp;tag=dpreview-minibbx-prodp-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B072B5GVVK" data-type="gearshop-small"><span class="name">Base, Grip Bundle</span><span class="priceOptions"><span class="price">$4,846.00</span></span></a><a class="offer buyboxLink" href="https://www.amazon.com/Sony-ILCE9-B-a9-Parent/dp/B071NB2MVX?SubscriptionId=AKIAJHZHL2PTF4QQSIQA&amp;tag=dpreview-minibbx-prodp-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B071NB2MVX" data-type="gearshop-small"><span class="name">w/ Portrait Lens, Accessory Bundle</span><span class="priceOptions"><span class="price">$7,534.49</span></span></a><a class="offer buyboxLink" href="https://www.amazon.com/Sony-ILCE9-B-a9-Parent/dp/B06ZY8M23X?SubscriptionId=AKIAJHZHL2PTF4QQSIQA&amp;tag=dpreview-minibbx-prodp-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B06ZY8M23X" data-type="gearshop-small"><span class="name">w/ Portrait Lens, Base</span><span class="priceOptions"><span class="price">$6,296.00</span></span></a><a class="offer buyboxLink" href="https://www.amazon.com/Sony-ILCE9-B-a9-Parent/dp/B07111NRS8?SubscriptionId=AKIAJHZHL2PTF4QQSIQA&amp;tag=dpreview-minibbx-prodp-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B07111NRS8" data-type="gearshop-small"><span class="name">w/ Portrait Lens, Grip Bundle</span><span class="priceOptions"><span class="price">$6,644.00</span></span></a><a class="offer buyboxLink" href="https://www.amazon.com/Sony-ILCE9-B-a9-Parent/dp/B07111N9GX?SubscriptionId=AKIAJHZHL2PTF4QQSIQA&amp;tag=dpreview-minibbx-prodp-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B07111N9GX" data-type="gearshop-small"><span class="name">w/ Telephoto Lens, Accessory Bundle</span><span class="priceOptions"><span class="price">$8,234.49</span></span></a><a class="offer buyboxLink" href="https://www.amazon.com/Sony-ILCE9-B-a9-Parent/dp/B071YHHMT3?SubscriptionId=AKIAJHZHL2PTF4QQSIQA&amp;tag=dpreview-minibbx-prodp-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B071YHHMT3" data-type="gearshop-small"><span class="name">w/ Telephoto Lens, Base</span><span class="priceOptions"><span class="price">$6,996.00</span></span></a><a class="offer buyboxLink" href="https://www.amazon.com/Sony-ILCE9-B-a9-Parent/dp/B071H4HD3S?SubscriptionId=AKIAJHZHL2PTF4QQSIQA&amp;tag=dpreview-minibbx-prodp-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B071H4HD3S" data-type="gearshop-small"><span class="name">w/ Telephoto Lens, Grip Bundle</span><span class="priceOptions"><span class="price">$7,344.00</span></span></a><a class="offer buyboxLink" href="https://www.amazon.com/Sony-ILCE9-B-a9-Parent/dp/B071DJXL73?SubscriptionId=AKIAJHZHL2PTF4QQSIQA&amp;tag=dpreview-minibbx-prodp-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B071DJXL73" data-type="gearshop-small"><span class="name">w/ Zoom Lens, Accessory Bundle</span><span class="priceOptions"><span class="price">$7,934.49</span></span></a><a class="offer buyboxLink" href="https://www.amazon.com/Sony-ILCE9-B-a9-Parent/dp/B071DJXPTN?SubscriptionId=AKIAJHZHL2PTF4QQSIQA&amp;tag=dpreview-minibbx-prodp-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B071DJXPTN" data-type="gearshop-small"><span class="name">w/ Zoom Lens, Base</span><span class="priceOptions"><span class="price">$6,696.00</span></span></a><a class="offer buyboxLink" href="https://www.amazon.com/Sony-ILCE9-B-a9-Parent/dp/B07111N9HF?SubscriptionId=AKIAJHZHL2PTF4QQSIQA&amp;tag=dpreview-minibbx-prodp-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B07111N9HF" data-type="gearshop-small"><span class="name">w/ Zoom Lens, Grip Bundle</span><span class="priceOptions"><span class="price">$7,044.00</span></span></a></div><div class="toggle"><span class="label expand">See all 12 options</span><span class="label collapse">Collapse</span></div></div></div></div></div></div></div>
+
+                <div class="item share">
+                    <div class="greyLabel uppercase label">Share</div>
+                    <div class="roundedBox">
+                        <div style="height: 20px; padding: 2px 0px;">
+                            <table border="0" cellspacing="0" cellpadding="0">
+                                <tbody>
+                                    <tr>
+                                        <td style="padding-right: 10px;">
+                                            <div class="fb-like" data-href="https://www.dpreview.com/products/sony/slrs/sony_a9" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-font="tahoma" data-colorscheme="dark"></div>
+                                        </td>
+                                            <td>
+                                                <a href="http://pinterest.com/pin/create/button/?url=https%3a%2f%2fwww.dpreview.com%2fproducts%2fsony%2fslrs%2fsony_a9&amp;media=https%3a%2f%2fwww.dpreview.com%2ffiles%2fp%2fE%7eproducts%2fsony_a9%2fshots%2f288294054d0640c3a9c6dfc78e9dfae2.png&amp;description=Sony+Alpha+a9" class="pin-it-button" count-layout="horizontal">Pin It</a>
+                                            </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="item userReviews">
+
+                    <div class="greyLabel uppercase label">User reviews</div>
+                    <div class="roundedBox">
+                            <div class="score" itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating">
+                                <div class="starsBackground">
+                                    <div class="starsForeground" style="width: 100.00000%;">&nbsp;</div>
+                                    <meta itemprop="ratingValue" content="5.00000">
+                                    <meta itemprop="bestRating" content="5">
+                                    <meta itemprop="worstRating" content="0">
+                                </div>
+                                <span>(<span itemprop="reviewCount">1</span>)</span>
+                            </div>
+                            <div class="clickthroughLink"><a href="/products/sony/slrs/sony_a9/user-reviews">See all user reviews</a></div>
+                        <a href="https://www.dpreview.com/forums/create?type=review&amp;forum=1064&amp;reviewProduct=sony_a9" class="actionButtonLink">
+                            <span class="actionButton grey">
+                                Write your user review
+                                <span class="icon"><span class="arrow"></span></span>
+                            </span>
+                        </a>
+                    </div>
+                </div>
+
+                    <div class="item questionsAndAnswers">
+                        <div class="greyLabel uppercase label">Questions &amp; Answers</div>
+                        <div class="roundedBox">
+                                <div>36 questions asked</div>
+                                <div class="clickthroughLink"><a href="/products/sony/slrs/sony_a9/questions-and-answers">See all Q&amp;As</a></div>
+                            <a href="https://www.dpreview.com/forums/create?type=question&amp;forum=1064&amp;product=sony_a9" class="actionButtonLink">
+                                <span class="actionButton grey">
+                                    Ask a new question
+                                    <span class="icon"><span class="arrow"></span></span>
+                                </span>
+                            </a>
+                        </div>
+                    </div>
+
+                    <div class="item gearList">
+                        <div class="greyLabel uppercase label">Gear list</div>
+                        <table cellpadding="0" cellspacing="0" border="0" style="width: 100%;" class="gearListActions" id="productOverviewGearList" data-gear-item-id="">
+                            <tr class="values">
+                                <td>63</td>
+                                <td class="sep"><span class="strut"></span></td>
+                                <td>309</td>
+                                <td class="sep"><span class="strut"></span></td>
+                                <td>41</td>
+                            </tr>
+                            <tr class="buttons">
+                                <td id="ownIt" class="ownIt">I own it</td>
+                                <td class="sep"><span class="strut"></span></td>
+                                <td id="wantIt" class="wantIt">I want it</td>
+                                <td class="sep"><span class="strut"></span></td>
+                                <td id="hadIt" class="hadIt">I had it</td>
+                            </tr>
+                        </table>
+                    </div>
+
+            </div>
+
+            <div class="clearBoth"></div>
+
+        </div>
+
+        <div class="section">
+            <div class="sectionHeader"><div class="sectionHeaderText">Product description</div><div class="greyLine"></div></div>
+                <div style="float: left;">
+                    <span class="greyLabel">Announced</span>
+Apr 19, 2017                </div>
+                            <div style="float: right;">
+                    Discuss in the <a href="https://www.dpreview.com/forums/1064" class="caretRight">Sony Alpha Full Frame E-mount Talk forum</a>
+                </div>
+            <div class="clearBoth"></div>
+            <p>The Sony Alpha a9 is the company&#39;s flagship full-frame mirrorless camera. It features a 24MP stacked CMOS sensor which permits 20 fps burst shooting without the &#39;blackout&#39; found on traditional DSLRs courtesy of its electronic shutter. Its autofocus system has been improved, with a total of 693 phase-detect points covering 93% of the image area and Eye AF that&#39;s 30% better compared to the a7R II. The camera has an ISO range of 50-204,800 when fully expanded and 14-bit uncompressed Raws can be saved. It can also record oversampled UHD 4K video.</p><p>The magnesium alloy body is weather-sealed, has onboard 5-axis image stabilization, and offers two dials plus a joystick for selecting an AF point. The large EVF has 3.7 million dots and the tilting 3&quot; LCD is touch-enabled. The a9 sports two SD card slots (both support UHS-II media) plus an Ethernet jack allowing users to transfer files over FTP.</p>
+            <meta itemprop="description" content="The Sony Alpha a9 is the company&#39;s flagship full-frame mirrorless camera. It features a 24MP stacked CMOS sensor which permits 20 fps burst shooting without the &#39;blackout&#39; found on traditional DSLRs courtesy of its electronic shutter. Its autofocus system has been improved, with a total of 693 phase-detect points covering 93% of the image area and Eye AF that&#39;s 30% better compared to the a7R II. The camera has an ISO range of 50-204,800 when fully expanded and 14-bit uncompressed Raws can be saved. It can also record oversampled UHD 4K video.
+
+The magnesium alloy body is weather-sealed, has onboard 5-axis image stabilization, and offers two dials plus a joystick for selecting an AF point. The large EVF has 3.7 million dots and the tilting 3&quot; LCD is touch-enabled. The a9 sports two SD card slots (both support UHS-II media) plus an Ethernet jack allowing users to transfer files over FTP.">
+        </div>
+
+        <div class="section">
+                <div class="leftColumn timeline">
+                    <div class="sectionHeader">
+                        <div class="sectionHeaderText">Product timeline</div>
+                        <div class="greyLine"></div>
+                    </div>
+                        <div class="timelineItem">
+                            <div class="title">
+                                <a href="https://www.dpreview.com/videos/4134648312/video-sony-a9-falls-short-with-canon-300mm-and-400mm-lenses-attached">Video: Sony a9 falls short with  Canon 300mm and 400mm lenses attached</a>
+                            </div>
+                            <div class="date greyLabel">
+                                Jun 24, 2017
+                            </div>
+                        </div>
+                        <div class="timelineItem">
+                            <div class="title">
+                                <a href="https://www.dpreview.com/news/8576711309/now-we-know-sony-a9-is-sharper-than-we-thought">Now we know: Sony a9 is sharper than we thought</a>
+                            </div>
+                            <div class="date greyLabel">
+                                Jun 22, 2017
+                            </div>
+                        </div>
+                        <div class="timelineItem highlight">
+                            <div class="title">
+                                <a href="https://www.dpreview.com/reviews/sony-a9-full-review">Sony Alpha a9 Review</a>
+                            </div>
+                            <div class="date">
+Review,
+                                Jun 14, 2017
+                            </div>
+                        </div>
+                        <div class="timelineItem">
+                            <div class="title">
+                                <a href="https://www.dpreview.com/news/4228347869/new-sony-alpha-a9-firmware-fixes-overheating-warning">New Sony a9 firmware fixes overheating warning</a>
+                            </div>
+                            <div class="date greyLabel">
+                                Jun 6, 2017
+                            </div>
+                        </div>
+                        <div class="timelineItem">
+                            <div class="title">
+                                <a href="https://www.dpreview.com/videos/1229895229/dpreview-on-twit-is-the-sony-a9-worth-it">DPReview on TWiT: Is the Sony a9 worth $4500?</a>
+                            </div>
+                            <div class="date greyLabel">
+                                Jun 1, 2017
+                            </div>
+                        </div>
+                        <div class="timelineItem">
+                            <div class="title">
+                                <a href="https://www.dpreview.com/news/5592335876/sigma-mount-converter-mc-11-experiences-focus-bug-when-used-with-sony-a9">Sigma Mount Converter MC-11 experiences focus bug when used with Sony a9</a>
+                            </div>
+                            <div class="date greyLabel">
+                                May 30, 2017
+                            </div>
+                        </div>
+                        <div class="timelineItem">
+                            <div class="title">
+                                <a href="https://www.dpreview.com/news/0067112897/sony-a9-in-depth-image-quality-analysis-confirms-limted-dr">Sony a9: Studio analysis confirms limited dynamic range, solid high ISO</a>
+                            </div>
+                            <div class="date greyLabel">
+                                May 30, 2017
+                            </div>
+                        </div>
+                        <div class="timelineItem">
+                            <div class="title">
+                                <a href="/articles/redirect/3747734003">Watch the Sony a9 track a fast basketball</a>
+                            </div>
+                            <div class="date greyLabel">
+                                May 27, 2017
+                            </div>
+                        </div>
+                        <div class="timelineItem">
+                            <div class="title">
+                                <a href="https://www.dpreview.com/news/1000370460/adobe-camera-raw-9-10-1-brings-a9-support-and-fujifilm-bug-fixes">Adobe Camera Raw and Lightroom updates brings a9 support</a>
+                            </div>
+                            <div class="date greyLabel">
+                                May 24, 2017
+                            </div>
+                        </div>
+                        <div class="timelineItem">
+                            <div class="title">
+                                <a href="https://www.dpreview.com/samples/0313885445/sony-fe-100-400mm-f4-5-5-6-gm-sample-gallery">Sony FE 100-400mm F4.5-5.6 GM sample gallery</a>
+                            </div>
+                            <div class="date greyLabel">
+                                May 24, 2017
+                            </div>
+                        </div>
+                        <div class="timelineItem">
+                            <div class="title">
+                                <a href="https://www.dpreview.com/articles/7266455439/sony-a9-real-world-iso-invariance-and-dynamic-range">Sony a9: more speed, less dynamic range</a>
+                            </div>
+                            <div class="date greyLabel">
+                                May 18, 2017
+                            </div>
+                        </div>
+                        <div class="timelineItem">
+                            <div class="title">
+                                <a href="https://www.dpreview.com/samples/0056447255/updated-with-raw-support-sony-a9-samples">Updated: Sony a9 samples with Raw support</a>
+                            </div>
+                            <div class="date greyLabel">
+                                May 7, 2017
+                            </div>
+                        </div>
+                        <div class="timelineItem">
+                            <div class="title">
+                                <a href="https://www.dpreview.com/news/8783241658/sony-a9-offers-powerful-pro-level-customization">UPDATED: Sony a9 offers powerful pro-level customization</a>
+                            </div>
+                            <div class="date greyLabel">
+                                May 3, 2017
+                            </div>
+                        </div>
+                        <div class="timelineItem">
+                            <div class="title">
+                                <a href="https://www.dpreview.com/samples/0552112277/sony-a9-samples-gallery">Serious speed: Sony a9 real world samples gallery</a>
+                            </div>
+                            <div class="date greyLabel">
+                                Apr 27, 2017
+                            </div>
+                        </div>
+                        <div class="timelineItem">
+                            <div class="title">
+                                <a href="https://www.dpreview.com/reviews/sony-a9-shooting-experience/3">Updated: A closer look at Sony a9 image quality and autofocus</a>
+                            </div>
+                            <div class="date greyLabel">
+                                Apr 27, 2017
+                            </div>
+                        </div>
+                        <div class="timelineItem">
+                            <div class="title">
+                                <a href="https://www.dpreview.com/articles/2661726126/alpha-better-sony-a9-versus-a7r-ii">Alpha-better: Sony a9 versus a7R II</a>
+                            </div>
+                            <div class="date greyLabel">
+                                Apr 26, 2017
+                            </div>
+                        </div>
+                        <div class="timelineItem">
+                            <div class="title">
+                                <a href="https://www.dpreview.com/articles/5769746764/the-cost-of-switching-to-sony-from-canon">Here&#39;s how much it would actually cost a pro to switch from Canon to Sony</a>
+                            </div>
+                            <div class="date greyLabel">
+                                Apr 25, 2017
+                            </div>
+                        </div>
+                        <div class="timelineItem">
+                            <div class="title">
+                                <a href="https://www.dpreview.com/opinion/1937765842/sony-a9-why-being-better-might-not-be-enough">Sony a9: Why being better might not be enough</a>
+                            </div>
+                            <div class="date greyLabel">
+                                Apr 24, 2017
+                            </div>
+                        </div>
+                        <div class="timelineItem">
+                            <div class="title">
+                                <a href="https://www.dpreview.com/videos/5718875219/sony-a9-first-look-video">Sony a9 first look videos</a>
+                            </div>
+                            <div class="date greyLabel">
+                                Apr 19, 2017
+                            </div>
+                        </div>
+                        <div class="timelineItem">
+                            <div class="title">
+                                <a href="https://www.dpreview.com/news/0029597051/hands-on-with-the-sony-alpha-a9">Professional powerhouse: Hands-on with the full-frame Sony Alpha a9</a>
+                            </div>
+                            <div class="date greyLabel">
+                                Apr 19, 2017
+                            </div>
+                        </div>
+                        <div class="timelineItem">
+                            <div class="title">
+                                <a href="https://www.dpreview.com/news/1308959313/the-sony-a9-is-a-24mp-sports-shooting-powerhouse">The Sony a9 is a 24MP sports-shooting powerhouse</a>
+                            </div>
+                            <div class="date greyLabel">
+                                Apr 19, 2017
+                            </div>
+                        </div>
+                </div>
+            <div class="rightColumn quickSpecs">
+                <div class="sectionHeader"><div class="sectionHeaderText">Quick specs</div><div class="greyLine"></div></div>
+                    <table cellpadding="0" cellspacing="0" border="0" style="width: 100%;" class="">
+                                <tr>
+                                    <td class="label">Body type</td>
+                                    <td class="value">SLR-style mirrorless</td>
+                                </tr>
+                                <tr>
+                                    <td class="label">Max resolution</td>
+                                    <td class="value">6000 x 4000</td>
+                                </tr>
+                                <tr>
+                                    <td class="label">Effective pixels</td>
+                                    <td class="value">24 <span class="unitsSuffix">megapixels</span></td>
+                                </tr>
+                                <tr>
+                                    <td class="label">Sensor size</td>
+                                    <td class="value">Full frame (35.6 x 23.8 mm)</td>
+                                </tr>
+                                <tr>
+                                    <td class="label">Sensor type</td>
+                                    <td class="value">BSI-CMOS</td>
+                                </tr>
+                                <tr>
+                                    <td class="label">ISO</td>
+                                    <td class="value">Auto, ISO 100-51200 (expands to 50-204800)</td>
+                                </tr>
+                                <tr>
+                                    <td class="label">Lens mount</td>
+                                    <td class="value">Sony E</td>
+                                </tr>
+                                <tr>
+                                    <td class="label">Focal length mult.</td>
+                                    <td class="value">1<span class="unitsSuffix">&#215;</span></td>
+                                </tr>
+                                <tr>
+                                    <td class="label">Articulated LCD</td>
+                                    <td class="value">Tilting</td>
+                                </tr>
+                                <tr>
+                                    <td class="label">Screen size</td>
+                                    <td class="value">3<span class="unitsSuffix">&#8243;</span></td>
+                                </tr>
+                                <tr>
+                                    <td class="label">Screen dots</td>
+                                    <td class="value">1,440,000</td>
+                                </tr>
+                                <tr>
+                                    <td class="label">Max shutter speed</td>
+                                    <td class="value">1/8000 <span class="unitsSuffix">sec</span></td>
+                                </tr>
+                                <tr>
+                                    <td class="label">Format</td>
+                                    <td class="value">MPEG-4, AVCHD, H.264</td>
+                                </tr>
+                                <tr>
+                                    <td class="label">Storage types</td>
+                                    <td class="value">Dual SD/SDHC/SDXC slots (UHS-II compatible)</td>
+                                </tr>
+                                <tr>
+                                    <td class="label">USB</td>
+                                    <td class="value">
+                            USB 2.0 <small>(480 Mbit/sec)</small></td>
+                                </tr>
+                                <tr>
+                                    <td class="label">Weight (inc. batteries)</td>
+                                    <td class="value">673 <span class="unitsSuffix">g</span> (1.48 <span class="unitsSuffix">lb</span> / 23.74 <span class="unitsSuffix">oz</span>)</td>
+                                </tr>
+                                <tr>
+                                    <td class="label">Dimensions</td>
+                                    <td class="value">127 x 96 x 63 <span class="unitsSuffix">mm</span> (5 x 3.78 x 2.48<span class="unitsSuffix">&#8243;</span>)</td>
+                                </tr>
+                                <tr>
+                                    <td class="label">GPS</td>
+                                    <td class="value">None</td>
+                                </tr>
+                    </table>
+                    <p><a href="/products/sony/slrs/sony_a9/specifications" class="caretRight">See full specifications</a></p>
+            </div>
+            <div class="clearBoth"></div>
+        </div>
+
+            <div class="section">
+                <div class="leftColumn reviewSummary">
+                    <div class="sectionHeader"><div class="sectionHeaderText">Our review</div><div class="greyLine"></div></div>
+<p>The Sony a9 is more than just a refinement of the company&#39;s a7-series of full-frame mirrorless cameras; it&#39;s an evolution. With meaningful ergonomic and user interface improvements, the a9 is a polished and highly capable camera. It may not be a go-to camera for landscape and studio photographers, but its compact dimensions, silent operation, abundant speed and blackout-free shooting make it not only a step forward for mirrorless, but a compelling proposition for professionals who can&#39;t afford to miss a moment.</p>                                            <p><span class="emphasis">Good for:</span> Sports, peak action, wedding, event and child photography, photojournalism</p>
+                                            <p><span class="emphasis">Not so good for:</span> Landscape and studio photographers for whom resolution and dynamic range are important considerations</p>
+                                            <div class="award">
+                            <div class="productBadgeAndScore gold withBadge withScore large horizontal"><a href="https://www.dpreview.com/reviews/sony-a9-full-review"><span class="badge"><img src="https://4.img-dpreview.com/resources/images/award-badge-gold.png?v=4098" width="90" height="55" alt="Gold Award" title="Gold Award"></span></a><a href="https://www.dpreview.com/reviews/sony-a9-full-review"><span class="score"><span class="value">89%</span><br><span class="text">Gold Award</span></span></a></div>
+                        </div>
+                    <p><a href="https://www.dpreview.com/reviews/sony-a9-full-review" class="caretRight">Read the full review</a></p>
+
+                </div>
+
+                <div class="rightColumn reviewScoring">
+                    <div class="sectionHeader"><div class="sectionHeaderText">Scoring</div><div class="greyLine"></div></div>
+                    <div class="scoring">
+                            <div class="label">Build quality</div>
+                            <div class="bar"><div class="gauge" style="width: 74.285714285714285714285714290%;"></div></div>
+                            <div class="label">Ergonomics &amp; handling</div>
+                            <div class="bar"><div class="gauge" style="width: 78.571428571428571428571428570%;"></div></div>
+                            <div class="label">Features</div>
+                            <div class="bar"><div class="gauge" style="width: 95.71428571428571428571428571%;"></div></div>
+                            <div class="label">Metering &amp; focus accuracy</div>
+                            <div class="bar"><div class="gauge" style="width: 87.14285714285714285714285714%;"></div></div>
+                            <div class="label">Image quality (raw)</div>
+                            <div class="bar"><div class="gauge" style="width: 77.857142857142857142857142860%;"></div></div>
+                            <div class="label">Image quality (jpeg)</div>
+                            <div class="bar"><div class="gauge" style="width: 79.87012987012987012987012987%;"></div></div>
+                            <div class="label">Low light / high ISO performance</div>
+                            <div class="bar"><div class="gauge" style="width: 91.16883116883116883116883117%;"></div></div>
+                            <div class="label">Viewfinder / screen rating</div>
+                            <div class="bar"><div class="gauge" style="width: 97.14285714285714285714285714%;"></div></div>
+                            <div class="label">Performance</div>
+                            <div class="bar"><div class="gauge" style="width: 87.61904761904761904761904761%;"></div></div>
+                            <div class="label">Movie / video mode</div>
+                            <div class="bar"><div class="gauge" style="width: 91.42857142857142857142857143%;"></div></div>
+                            <div class="label">Connectivity</div>
+                            <div class="bar"><div class="gauge" style="width: 71.428571428571428571428571430%;"></div></div>
+                            <div class="label">Value</div>
+                            <div class="bar"><div class="gauge" style="width: 85.71428571428571428571428571%;"></div></div>
+                    </div>
+                </div>
+                <div class="clearBoth"></div>
+            </div>
+
+            <div id="productVideos" class="section videos">
+                <div class="sectionHeader"><div class="sectionHeaderText">Sony Alpha a9 videos</div><div class="greyLine"></div></div>
+                <table border="0" cellspacing="0" cellpadding="0">
+                    <tbody>
+                            <tr>
+                                <td class="video">
+                                    <div class="video" data-video-info="{&quot;type&quot;:&quot;youtube&quot;,&quot;id&quot;:&quot;M3qpOfaCEzI&quot;}">
+                                        <div class="thumbnail"><a href="http://www.youtube.com/watch?v=M3qpOfaCEzI"><img src="https://3.img-dpreview.com/files/w/TC16x9S184x104?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FM3qpOfaCEzI%2Fhqdefault.jpg&amp;signature=D6DMNQEOeyrCCf%2FGdcELyhx8YKc%3D" width="184" height="104" border="0" alt="Customizing AF using the Sony a9 Recall Custom Hold option"></a></div>
+                                        <div class="info">
+                                            <div class="title">
+                                                <a href="http://www.youtube.com/watch?v=M3qpOfaCEzI">Customizing AF using the Sony a9 Recall Custom Hold option</a>
+                                            </div>
+                                            <div class="durationAndDate">
+                                                03:25 (27 Apr, 2017)
+                                            </div>
+                                        </div>
+                                    </div>
+                                </td>
+                                <td class="video">
+                                    <div class="video" data-video-info="{&quot;type&quot;:&quot;youtube&quot;,&quot;id&quot;:&quot;2NOryQ88h3o&quot;}">
+                                        <div class="thumbnail"><a href="http://www.youtube.com/watch?v=2NOryQ88h3o"><img src="https://3.img-dpreview.com/files/w/TC16x9S184x104?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2F2NOryQ88h3o%2Fhqdefault.jpg&amp;signature=MiDHke6PQYbyUjBaaofa7vN5kQU%3D" width="184" height="104" border="0" alt="Sony a9 autofocus and responsiveness demonstration"></a></div>
+                                        <div class="info">
+                                            <div class="title">
+                                                <a href="http://www.youtube.com/watch?v=2NOryQ88h3o">Sony a9 autofocus and responsiveness demonstration</a>
+                                            </div>
+                                            <div class="durationAndDate">
+                                                01:23 (27 Apr, 2017)
+                                            </div>
+                                        </div>
+                                    </div>
+                                </td>
+                                <td class="video">
+                                    <div class="video" data-video-info="{&quot;type&quot;:&quot;youtube&quot;,&quot;id&quot;:&quot;W_tOzj5wBmU&quot;}">
+                                        <div class="thumbnail"><a href="http://www.youtube.com/watch?v=W_tOzj5wBmU"><img src="https://2.img-dpreview.com/files/w/TC16x9S184x104?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FW_tOzj5wBmU%2Fhqdefault.jpg&amp;signature=A%2BR%2BzFxKwIq00TbLA285tj6vD8Y%3D" width="184" height="104" border="0" alt="Sony a9 First Look"></a></div>
+                                        <div class="info">
+                                            <div class="title">
+                                                <a href="http://www.youtube.com/watch?v=W_tOzj5wBmU">Sony a9 First Look</a>
+                                            </div>
+                                            <div class="durationAndDate">
+                                                01:43 (19 Apr, 2017)
+                                            </div>
+                                        </div>
+                                    </div>
+                                </td>
+                                                        </tr>
+                    </tbody>
+                </table>
+            </div>
+
+            <div class="section sampleGalleries">
+                    <div class="sampleGallery">
+                        <div class="sectionHeader">
+                            <div class="sectionHeaderText">Sony a9 real world samples gallery</div>
+                            <div class="greyLine"></div>
+                        </div>
+                        <div class="galleryInfo">
+                            100 images &bull;
+                            Posted on Apr 27, 2017 &bull;
+                            <a href="https://www.dpreview.com/sample-galleries/5484254968/sony-a9-samples-gallery" class="caretRight">View gallery</a>
+                        </div>
+                        <div class="images"><a href="https://www.dpreview.com/sample-galleries/5484254968/sony-a9-samples-gallery/8779181325"><img src="https://3.img-dpreview.com/files/p/TC60x60S60x60~sample_galleries/5484254968/8779181325.jpg" width="60" height="60" border="0" alt="Sample photo"></a><a href="https://www.dpreview.com/sample-galleries/5484254968/sony-a9-samples-gallery/9585993504"><img src="https://1.img-dpreview.com/files/p/TC60x60S60x60~sample_galleries/5484254968/9585993504.jpg" width="60" height="60" border="0" alt="Sample photo"></a><a href="https://www.dpreview.com/sample-galleries/5484254968/sony-a9-samples-gallery/9299354320"><img src="https://2.img-dpreview.com/files/p/TC60x60S60x60~sample_galleries/5484254968/9299354320.jpg" width="60" height="60" border="0" alt="Sample photo"></a><a href="https://www.dpreview.com/sample-galleries/5484254968/sony-a9-samples-gallery/5160966762"><img src="https://2.img-dpreview.com/files/p/TC60x60S60x60~sample_galleries/5484254968/5160966762.jpg" width="60" height="60" border="0" alt="Sample photo"></a><a href="https://www.dpreview.com/sample-galleries/5484254968/sony-a9-samples-gallery/1653929211"><img src="https://3.img-dpreview.com/files/p/TC60x60S60x60~sample_galleries/5484254968/1653929211.jpg" width="60" height="60" border="0" alt="Sample photo"></a><a href="https://www.dpreview.com/sample-galleries/5484254968/sony-a9-samples-gallery/4278788750"><img src="https://2.img-dpreview.com/files/p/TC60x60S60x60~sample_galleries/5484254968/4278788750.jpg" width="60" height="60" border="0" alt="Sample photo"></a><a href="https://www.dpreview.com/sample-galleries/5484254968/sony-a9-samples-gallery/2736704297"><img src="https://1.img-dpreview.com/files/p/TC60x60S60x60~sample_galleries/5484254968/2736704297.jpg" width="60" height="60" border="0" alt="Sample photo"></a><a href="https://www.dpreview.com/sample-galleries/5484254968/sony-a9-samples-gallery/7152167536"><img src="https://3.img-dpreview.com/files/p/TC60x60S60x60~sample_galleries/5484254968/7152167536.jpg" width="60" height="60" border="0" alt="Sample photo"></a><a href="https://www.dpreview.com/sample-galleries/5484254968/sony-a9-samples-gallery/4453673998"><img src="https://2.img-dpreview.com/files/p/TC60x60S60x60~sample_galleries/5484254968/4453673998.jpg" width="60" height="60" border="0" alt="Sample photo"></a><a href="https://www.dpreview.com/sample-galleries/5484254968/sony-a9-samples-gallery/4229020963"><img src="https://3.img-dpreview.com/files/p/TC60x60S60x60~sample_galleries/5484254968/4229020963.jpg" width="60" height="60" border="0" alt="Sample photo"></a><a href="https://www.dpreview.com/sample-galleries/5484254968/sony-a9-samples-gallery/8979438422"><img src="https://2.img-dpreview.com/files/p/TC60x60S60x60~sample_galleries/5484254968/8979438422.jpg" width="60" height="60" border="0" alt="Sample photo"></a><a href="https://www.dpreview.com/sample-galleries/5484254968/sony-a9-samples-gallery/7337245478"><img src="https://2.img-dpreview.com/files/p/TC60x60S60x60~sample_galleries/5484254968/7337245478.jpg" width="60" height="60" border="0" alt="Sample photo"></a><a href="https://www.dpreview.com/sample-galleries/5484254968/sony-a9-samples-gallery/8853054393"><img src="https://4.img-dpreview.com/files/p/TC60x60S60x60~sample_galleries/5484254968/8853054393.jpg" width="60" height="60" border="0" alt="Sample photo"></a><a href="https://www.dpreview.com/sample-galleries/5484254968/sony-a9-samples-gallery/7409229396"><img src="https://1.img-dpreview.com/files/p/TC60x60S60x60~sample_galleries/5484254968/7409229396.jpg" width="60" height="60" border="0" alt="Sample photo"></a><a href="https://www.dpreview.com/sample-galleries/5484254968/sony-a9-samples-gallery/5942522803"><img src="https://2.img-dpreview.com/files/p/TC60x60S60x60~sample_galleries/5484254968/5942522803.jpg" width="60" height="60" border="0" alt="Sample photo"></a><a href="https://www.dpreview.com/sample-galleries/5484254968/sony-a9-samples-gallery/7366680588"><img src="https://1.img-dpreview.com/files/p/TC60x60S60x60~sample_galleries/5484254968/7366680588.jpg" width="60" height="60" border="0" alt="Sample photo"></a><a href="https://www.dpreview.com/sample-galleries/5484254968/sony-a9-samples-gallery/9316877488"><img src="https://3.img-dpreview.com/files/p/TC60x60S60x60~sample_galleries/5484254968/9316877488.jpg" width="60" height="60" border="0" alt="Sample photo"></a><a href="https://www.dpreview.com/sample-galleries/5484254968/sony-a9-samples-gallery/9624155707"><img src="https://2.img-dpreview.com/files/p/TC60x60S60x60~sample_galleries/5484254968/9624155707.jpg" width="60" height="60" border="0" alt="Sample photo"></a><a href="https://www.dpreview.com/sample-galleries/5484254968/sony-a9-samples-gallery/6695718707"><img src="https://4.img-dpreview.com/files/p/TC60x60S60x60~sample_galleries/5484254968/6695718707.jpg" width="60" height="60" border="0" alt="Sample photo"></a><a href="https://www.dpreview.com/sample-galleries/5484254968/sony-a9-samples-gallery/8136528258"><img src="https://2.img-dpreview.com/files/p/TC60x60S60x60~sample_galleries/5484254968/8136528258.jpg" width="60" height="60" border="0" alt="Sample photo"></a><a href="https://www.dpreview.com/sample-galleries/5484254968/sony-a9-samples-gallery/4124803451"><img src="https://2.img-dpreview.com/files/p/TC60x60S60x60~sample_galleries/5484254968/4124803451.jpg" width="60" height="60" border="0" alt="Sample photo"></a><a href="https://www.dpreview.com/sample-galleries/5484254968/sony-a9-samples-gallery/6383535800"><img src="https://1.img-dpreview.com/files/p/TC60x60S60x60~sample_galleries/5484254968/6383535800.jpg" width="60" height="60" border="0" alt="Sample photo"></a><a href="https://www.dpreview.com/sample-galleries/5484254968/sony-a9-samples-gallery/4332089098"><img src="https://4.img-dpreview.com/files/p/TC60x60S60x60~sample_galleries/5484254968/4332089098.jpg" width="60" height="60" border="0" alt="Sample photo"></a><a href="https://www.dpreview.com/sample-galleries/5484254968/sony-a9-samples-gallery/4217378068"><img src="https://4.img-dpreview.com/files/p/TC60x60S60x60~sample_galleries/5484254968/4217378068.jpg" width="60" height="60" border="0" alt="Sample photo"></a><a href="https://www.dpreview.com/sample-galleries/5484254968/sony-a9-samples-gallery/4976976796"><img src="https://2.img-dpreview.com/files/p/TC60x60S60x60~sample_galleries/5484254968/4976976796.jpg" width="60" height="60" border="0" alt="Sample photo"></a><a href="https://www.dpreview.com/sample-galleries/5484254968/sony-a9-samples-gallery/6883999228"><img src="https://2.img-dpreview.com/files/p/TC60x60S60x60~sample_galleries/5484254968/6883999228.jpg" width="60" height="60" border="0" alt="Sample photo"></a><a href="https://www.dpreview.com/sample-galleries/5484254968/sony-a9-samples-gallery/2372315478"><img src="https://2.img-dpreview.com/files/p/TC60x60S60x60~sample_galleries/5484254968/2372315478.jpg" width="60" height="60" border="0" alt="Sample photo"></a><a href="https://www.dpreview.com/sample-galleries/5484254968/sony-a9-samples-gallery/7678361506"><img src="https://1.img-dpreview.com/files/p/TC60x60S60x60~sample_galleries/5484254968/7678361506.jpg" width="60" height="60" border="0" alt="Sample photo"></a><a href="https://www.dpreview.com/sample-galleries/5484254968/sony-a9-samples-gallery/7609848977"><img src="https://1.img-dpreview.com/files/p/TC60x60S60x60~sample_galleries/5484254968/7609848977.jpg" width="60" height="60" border="0" alt="Sample photo"></a><a href="https://www.dpreview.com/sample-galleries/5484254968/sony-a9-samples-gallery/5179830528"><img src="https://4.img-dpreview.com/files/p/TC60x60S60x60~sample_galleries/5484254968/5179830528.jpg" width="60" height="60" border="0" alt="Sample photo"></a><a href="https://www.dpreview.com/sample-galleries/5484254968/sony-a9-samples-gallery/6624818889"><img src="https://4.img-dpreview.com/files/p/TC60x60S60x60~sample_galleries/5484254968/6624818889.jpg" width="60" height="60" border="0" alt="Sample photo"></a><a href="https://www.dpreview.com/sample-galleries/5484254968/sony-a9-samples-gallery/1387751404"><img src="https://4.img-dpreview.com/files/p/TC60x60S60x60~sample_galleries/5484254968/1387751404.jpg" width="60" height="60" border="0" alt="Sample photo"></a><a href="https://www.dpreview.com/sample-galleries/5484254968/sony-a9-samples-gallery/7956934799"><img src="https://2.img-dpreview.com/files/p/TC60x60S60x60~sample_galleries/5484254968/7956934799.jpg" width="60" height="60" border="0" alt="Sample photo"></a><a href="https://www.dpreview.com/sample-galleries/5484254968/sony-a9-samples-gallery/9970099507"><img src="https://3.img-dpreview.com/files/p/TC60x60S60x60~sample_galleries/5484254968/9970099507.jpg" width="60" height="60" border="0" alt="Sample photo"></a><a href="https://www.dpreview.com/sample-galleries/5484254968/sony-a9-samples-gallery/1375502160"><img src="https://2.img-dpreview.com/files/p/TC60x60S60x60~sample_galleries/5484254968/1375502160.jpg" width="60" height="60" border="0" alt="Sample photo"></a><a href="https://www.dpreview.com/sample-galleries/5484254968/sony-a9-samples-gallery/0627915556"><img src="https://2.img-dpreview.com/files/p/TC60x60S60x60~sample_galleries/5484254968/0627915556.jpg" width="60" height="60" border="0" alt="Sample photo"></a><a href="https://www.dpreview.com/sample-galleries/5484254968/sony-a9-samples-gallery/7894956815"><img src="https://2.img-dpreview.com/files/p/TC60x60S60x60~sample_galleries/5484254968/7894956815.jpg" width="60" height="60" border="0" alt="Sample photo"></a><a href="https://www.dpreview.com/sample-galleries/5484254968/sony-a9-samples-gallery/4837919907"><img src="https://1.img-dpreview.com/files/p/TC60x60S60x60~sample_galleries/5484254968/4837919907.jpg" width="60" height="60" border="0" alt="Sample photo"></a><a href="https://www.dpreview.com/sample-galleries/5484254968/sony-a9-samples-gallery/5870578787"><img src="https://2.img-dpreview.com/files/p/TC60x60S60x60~sample_galleries/5484254968/5870578787.jpg" width="60" height="60" border="0" alt="Sample photo"></a><a href="https://www.dpreview.com/sample-galleries/5484254968/sony-a9-samples-gallery/9287535856"><img src="https://2.img-dpreview.com/files/p/TC60x60S60x60~sample_galleries/5484254968/9287535856.jpg" width="60" height="60" border="0" alt="Sample photo"></a><a href="https://www.dpreview.com/sample-galleries/5484254968/sony-a9-samples-gallery/3503347867"><img src="https://2.img-dpreview.com/files/p/TC60x60S60x60~sample_galleries/5484254968/3503347867.jpg" width="60" height="60" border="0" alt="Sample photo"></a><a href="https://www.dpreview.com/sample-galleries/5484254968/sony-a9-samples-gallery/6252161932"><img src="https://1.img-dpreview.com/files/p/TC60x60S60x60~sample_galleries/5484254968/6252161932.jpg" width="60" height="60" border="0" alt="Sample photo"></a><a href="https://www.dpreview.com/sample-galleries/5484254968/sony-a9-samples-gallery/6219308552"><img src="https://3.img-dpreview.com/files/p/TC60x60S60x60~sample_galleries/5484254968/6219308552.jpg" width="60" height="60" border="0" alt="Sample photo"></a><a href="https://www.dpreview.com/sample-galleries/5484254968/sony-a9-samples-gallery/0643414852"><img src="https://1.img-dpreview.com/files/p/TC60x60S60x60~sample_galleries/5484254968/0643414852.jpg" width="60" height="60" border="0" alt="Sample photo"></a><a href="https://www.dpreview.com/sample-galleries/5484254968/sony-a9-samples-gallery/1900154856"><img src="https://1.img-dpreview.com/files/p/TC60x60S60x60~sample_galleries/5484254968/1900154856.jpg" width="60" height="60" border="0" alt="Sample photo"></a><a href="https://www.dpreview.com/sample-galleries/5484254968/sony-a9-samples-gallery/4253470470"><img src="https://2.img-dpreview.com/files/p/TC60x60S60x60~sample_galleries/5484254968/4253470470.jpg" width="60" height="60" border="0" alt="Sample photo"></a><a href="https://www.dpreview.com/sample-galleries/5484254968/sony-a9-samples-gallery/5697096082"><img src="https://2.img-dpreview.com/files/p/TC60x60S60x60~sample_galleries/5484254968/5697096082.jpg" width="60" height="60" border="0" alt="Sample photo"></a><a href="https://www.dpreview.com/sample-galleries/5484254968/sony-a9-samples-gallery/9822047676"><img src="https://3.img-dpreview.com/files/p/TC60x60S60x60~sample_galleries/5484254968/9822047676.jpg" width="60" height="60" border="0" alt="Sample photo"></a><a href="https://www.dpreview.com/sample-galleries/5484254968/sony-a9-samples-gallery/0964473766"><img src="https://2.img-dpreview.com/files/p/TC60x60S60x60~sample_galleries/5484254968/0964473766.jpg" width="60" height="60" border="0" alt="Sample photo"></a><a href="https://www.dpreview.com/sample-galleries/5484254968/sony-a9-samples-gallery/9636129200"><img src="https://4.img-dpreview.com/files/p/TC60x60S60x60~sample_galleries/5484254968/9636129200.jpg" width="60" height="60" border="0" alt="Sample photo"></a><a href="https://www.dpreview.com/sample-galleries/5484254968/sony-a9-samples-gallery/3285762786"><img src="https://4.img-dpreview.com/files/p/TC60x60S60x60~sample_galleries/5484254968/3285762786.jpg" width="60" height="60" border="0" alt="Sample photo"></a><a href="https://www.dpreview.com/sample-galleries/5484254968/sony-a9-samples-gallery/3588777840"><img src="https://3.img-dpreview.com/files/p/TC60x60S60x60~sample_galleries/5484254968/3588777840.jpg" width="60" height="60" border="0" alt="Sample photo"></a><a href="https://www.dpreview.com/sample-galleries/5484254968/sony-a9-samples-gallery/2378437149"><img src="https://4.img-dpreview.com/files/p/TC60x60S60x60~sample_galleries/5484254968/2378437149.jpg" width="60" height="60" border="0" alt="Sample photo"></a><a href="https://www.dpreview.com/sample-galleries/5484254968/sony-a9-samples-gallery/1326405091"><img src="https://1.img-dpreview.com/files/p/TC60x60S60x60~sample_galleries/5484254968/1326405091.jpg" width="60" height="60" border="0" alt="Sample photo"></a><a href="https://www.dpreview.com/sample-galleries/5484254968/sony-a9-samples-gallery/4066047009"><img src="https://4.img-dpreview.com/files/p/TC60x60S60x60~sample_galleries/5484254968/4066047009.jpg" width="60" height="60" border="0" alt="Sample photo"></a><a href="https://www.dpreview.com/sample-galleries/5484254968/sony-a9-samples-gallery/2976989528"><img src="https://3.img-dpreview.com/files/p/TC60x60S60x60~sample_galleries/5484254968/2976989528.jpg" width="60" height="60" border="0" alt="Sample photo"></a><a href="https://www.dpreview.com/sample-galleries/5484254968/sony-a9-samples-gallery/1555356133"><img src="https://1.img-dpreview.com/files/p/TC60x60S60x60~sample_galleries/5484254968/1555356133.jpg" width="60" height="60" border="0" alt="Sample photo"></a><a href="https://www.dpreview.com/sample-galleries/5484254968/sony-a9-samples-gallery/6388039800"><img src="https://1.img-dpreview.com/files/p/TC60x60S60x60~sample_galleries/5484254968/6388039800.jpg" width="60" height="60" border="0" alt="Sample photo"></a><a href="https://www.dpreview.com/sample-galleries/5484254968/sony-a9-samples-gallery/3073518593"><img src="https://2.img-dpreview.com/files/p/TC60x60S60x60~sample_galleries/5484254968/3073518593.jpg" width="60" height="60" border="0" alt="Sample photo"></a><a href="https://www.dpreview.com/sample-galleries/5484254968/sony-a9-samples-gallery/2540399218"><img src="https://1.img-dpreview.com/files/p/TC60x60S60x60~sample_galleries/5484254968/2540399218.jpg" width="60" height="60" border="0" alt="Sample photo"></a><a href="https://www.dpreview.com/sample-galleries/5484254968/sony-a9-samples-gallery/7880656398"><img src="https://2.img-dpreview.com/files/p/TC60x60S60x60~sample_galleries/5484254968/7880656398.jpg" width="60" height="60" border="0" alt="Sample photo"></a><a href="https://www.dpreview.com/sample-galleries/5484254968/sony-a9-samples-gallery/4679306024"><img src="https://3.img-dpreview.com/files/p/TC60x60S60x60~sample_galleries/5484254968/4679306024.jpg" width="60" height="60" border="0" alt="Sample photo"></a><a href="https://www.dpreview.com/sample-galleries/5484254968/sony-a9-samples-gallery/6586530025"><img src="https://2.img-dpreview.com/files/p/TC60x60S60x60~sample_galleries/5484254968/6586530025.jpg" width="60" height="60" border="0" alt="Sample photo"></a><a href="https://www.dpreview.com/sample-galleries/5484254968/sony-a9-samples-gallery/2712747577"><img src="https://3.img-dpreview.com/files/p/TC60x60S60x60~sample_galleries/5484254968/2712747577.jpg" width="60" height="60" border="0" alt="Sample photo"></a><a href="https://www.dpreview.com/sample-galleries/5484254968/sony-a9-samples-gallery/2182020253"><img src="https://1.img-dpreview.com/files/p/TC60x60S60x60~sample_galleries/5484254968/2182020253.jpg" width="60" height="60" border="0" alt="Sample photo"></a><a href="https://www.dpreview.com/sample-galleries/5484254968/sony-a9-samples-gallery/7608886632"><img src="https://2.img-dpreview.com/files/p/TC60x60S60x60~sample_galleries/5484254968/7608886632.jpg" width="60" height="60" border="0" alt="Sample photo"></a><a href="https://www.dpreview.com/sample-galleries/5484254968/sony-a9-samples-gallery/8804630209"><img src="https://4.img-dpreview.com/files/p/TC60x60S60x60~sample_galleries/5484254968/8804630209.jpg" width="60" height="60" border="0" alt="Sample photo"></a><a href="https://www.dpreview.com/sample-galleries/5484254968/sony-a9-samples-gallery/6843762561"><img src="https://2.img-dpreview.com/files/p/TC60x60S60x60~sample_galleries/5484254968/6843762561.jpg" width="60" height="60" border="0" alt="Sample photo"></a><a href="https://www.dpreview.com/sample-galleries/5484254968/sony-a9-samples-gallery/3812642837"><img src="https://2.img-dpreview.com/files/p/TC60x60S60x60~sample_galleries/5484254968/3812642837.jpg" width="60" height="60" border="0" alt="Sample photo"></a><a href="https://www.dpreview.com/sample-galleries/5484254968/sony-a9-samples-gallery/3604627410"><img src="https://1.img-dpreview.com/files/p/TC60x60S60x60~sample_galleries/5484254968/3604627410.jpg" width="60" height="60" border="0" alt="Sample photo"></a><a href="https://www.dpreview.com/sample-galleries/5484254968/sony-a9-samples-gallery/0296777108"><img src="https://1.img-dpreview.com/files/p/TC60x60S60x60~sample_galleries/5484254968/0296777108.jpg" width="60" height="60" border="0" alt="Sample photo"></a><a href="https://www.dpreview.com/sample-galleries/5484254968/sony-a9-samples-gallery/4481460681"><img src="https://2.img-dpreview.com/files/p/TC60x60S60x60~sample_galleries/5484254968/4481460681.jpg" width="60" height="60" border="0" alt="Sample photo"></a><a href="https://www.dpreview.com/sample-galleries/5484254968/sony-a9-samples-gallery/3580357175"><img src="https://2.img-dpreview.com/files/p/TC60x60S60x60~sample_galleries/5484254968/3580357175.jpg" width="60" height="60" border="0" alt="Sample photo"></a><a href="https://www.dpreview.com/sample-galleries/5484254968/sony-a9-samples-gallery/4073893622"><img src="https://2.img-dpreview.com/files/p/TC60x60S60x60~sample_galleries/5484254968/4073893622.jpg" width="60" height="60" border="0" alt="Sample photo"></a><a href="https://www.dpreview.com/sample-galleries/5484254968/sony-a9-samples-gallery/7124572761"><img src="https://2.img-dpreview.com/files/p/TC60x60S60x60~sample_galleries/5484254968/7124572761.jpg" width="60" height="60" border="0" alt="Sample photo"></a><a href="https://www.dpreview.com/sample-galleries/5484254968/sony-a9-samples-gallery/9085557703"><img src="https://1.img-dpreview.com/files/p/TC60x60S60x60~sample_galleries/5484254968/9085557703.jpg" width="60" height="60" border="0" alt="Sample photo"></a><a href="https://www.dpreview.com/sample-galleries/5484254968/sony-a9-samples-gallery/8186571999"><img src="https://3.img-dpreview.com/files/p/TC60x60S60x60~sample_galleries/5484254968/8186571999.jpg" width="60" height="60" border="0" alt="Sample photo"></a><a href="https://www.dpreview.com/sample-galleries/5484254968/sony-a9-samples-gallery/8079440963"><img src="https://4.img-dpreview.com/files/p/TC60x60S60x60~sample_galleries/5484254968/8079440963.jpg" width="60" height="60" border="0" alt="Sample photo"></a><a href="https://www.dpreview.com/sample-galleries/5484254968/sony-a9-samples-gallery/2991202602"><img src="https://1.img-dpreview.com/files/p/TC60x60S60x60~sample_galleries/5484254968/2991202602.jpg" width="60" height="60" border="0" alt="Sample photo"></a><a href="https://www.dpreview.com/sample-galleries/5484254968/sony-a9-samples-gallery/2462215633"><img src="https://4.img-dpreview.com/files/p/TC60x60S60x60~sample_galleries/5484254968/2462215633.jpg" width="60" height="60" border="0" alt="Sample photo"></a><a href="https://www.dpreview.com/sample-galleries/5484254968/sony-a9-samples-gallery/0970432109"><img src="https://1.img-dpreview.com/files/p/TC60x60S60x60~sample_galleries/5484254968/0970432109.jpg" width="60" height="60" border="0" alt="Sample photo"></a><a href="https://www.dpreview.com/sample-galleries/5484254968/sony-a9-samples-gallery/3492733208"><img src="https://1.img-dpreview.com/files/p/TC60x60S60x60~sample_galleries/5484254968/3492733208.jpg" width="60" height="60" border="0" alt="Sample photo"></a><a href="https://www.dpreview.com/sample-galleries/5484254968/sony-a9-samples-gallery/9864514379"><img src="https://4.img-dpreview.com/files/p/TC60x60S60x60~sample_galleries/5484254968/9864514379.jpg" width="60" height="60" border="0" alt="Sample photo"></a><a href="https://www.dpreview.com/sample-galleries/5484254968/sony-a9-samples-gallery/9849455603"><img src="https://1.img-dpreview.com/files/p/TC60x60S60x60~sample_galleries/5484254968/9849455603.jpg" width="60" height="60" border="0" alt="Sample photo"></a><a href="https://www.dpreview.com/sample-galleries/5484254968/sony-a9-samples-gallery/4286639876"><img src="https://1.img-dpreview.com/files/p/TC60x60S60x60~sample_galleries/5484254968/4286639876.jpg" width="60" height="60" border="0" alt="Sample photo"></a><a href="https://www.dpreview.com/sample-galleries/5484254968/sony-a9-samples-gallery/2720141874"><img src="https://2.img-dpreview.com/files/p/TC60x60S60x60~sample_galleries/5484254968/2720141874.jpg" width="60" height="60" border="0" alt="Sample photo"></a><a href="https://www.dpreview.com/sample-galleries/5484254968/sony-a9-samples-gallery/4041595866"><img src="https://2.img-dpreview.com/files/p/TC60x60S60x60~sample_galleries/5484254968/4041595866.jpg" width="60" height="60" border="0" alt="Sample photo"></a><a href="https://www.dpreview.com/sample-galleries/5484254968/sony-a9-samples-gallery/4478996703"><img src="https://1.img-dpreview.com/files/p/TC60x60S60x60~sample_galleries/5484254968/4478996703.jpg" width="60" height="60" border="0" alt="Sample photo"></a><a href="https://www.dpreview.com/sample-galleries/5484254968/sony-a9-samples-gallery/1808952749"><img src="https://1.img-dpreview.com/files/p/TC60x60S60x60~sample_galleries/5484254968/1808952749.jpg" width="60" height="60" border="0" alt="Sample photo"></a><a href="https://www.dpreview.com/sample-galleries/5484254968/sony-a9-samples-gallery/1863653577"><img src="https://3.img-dpreview.com/files/p/TC60x60S60x60~sample_galleries/5484254968/1863653577.jpg" width="60" height="60" border="0" alt="Sample photo"></a><a href="https://www.dpreview.com/sample-galleries/5484254968/sony-a9-samples-gallery/2616678528"><img src="https://3.img-dpreview.com/files/p/TC60x60S60x60~sample_galleries/5484254968/2616678528.jpg" width="60" height="60" border="0" alt="Sample photo"></a><a href="https://www.dpreview.com/sample-galleries/5484254968/sony-a9-samples-gallery/2743106342"><img src="https://2.img-dpreview.com/files/p/TC60x60S60x60~sample_galleries/5484254968/2743106342.jpg" width="60" height="60" border="0" alt="Sample photo"></a><a href="https://www.dpreview.com/sample-galleries/5484254968/sony-a9-samples-gallery/7386603086"><img src="https://1.img-dpreview.com/files/p/TC60x60S60x60~sample_galleries/5484254968/7386603086.jpg" width="60" height="60" border="0" alt="Sample photo"></a><a href="https://www.dpreview.com/sample-galleries/5484254968/sony-a9-samples-gallery/8919879796"><img src="https://1.img-dpreview.com/files/p/TC60x60S60x60~sample_galleries/5484254968/8919879796.jpg" width="60" height="60" border="0" alt="Sample photo"></a><a href="https://www.dpreview.com/sample-galleries/5484254968/sony-a9-samples-gallery/1724234140"><img src="https://2.img-dpreview.com/files/p/TC60x60S60x60~sample_galleries/5484254968/1724234140.jpg" width="60" height="60" border="0" alt="Sample photo"></a><a href="https://www.dpreview.com/sample-galleries/5484254968/sony-a9-samples-gallery/2852523598"><img src="https://1.img-dpreview.com/files/p/TC60x60S60x60~sample_galleries/5484254968/2852523598.jpg" width="60" height="60" border="0" alt="Sample photo"></a><a href="https://www.dpreview.com/sample-galleries/5484254968/sony-a9-samples-gallery/2499525877"><img src="https://2.img-dpreview.com/files/p/TC60x60S60x60~sample_galleries/5484254968/2499525877.jpg" width="60" height="60" border="0" alt="Sample photo"></a><a href="https://www.dpreview.com/sample-galleries/5484254968/sony-a9-samples-gallery/1306367899"><img src="https://4.img-dpreview.com/files/p/TC60x60S60x60~sample_galleries/5484254968/1306367899.jpg" width="60" height="60" border="0" alt="Sample photo"></a><a href="https://www.dpreview.com/sample-galleries/5484254968/sony-a9-samples-gallery/5590022472"><img src="https://2.img-dpreview.com/files/p/TC60x60S60x60~sample_galleries/5484254968/5590022472.jpg" width="60" height="60" border="0" alt="Sample photo"></a><a href="https://www.dpreview.com/sample-galleries/5484254968/sony-a9-samples-gallery/9872074668"><img src="https://3.img-dpreview.com/files/p/TC60x60S60x60~sample_galleries/5484254968/9872074668.jpg" width="60" height="60" border="0" alt="Sample photo"></a></div>
+                    </div>
+            </div>
+
+        <div id="amazonBuyboxContainer" class="singleProductMultipleVariations"><div class="sponsor">Support DPReview. Shop with</div><div class="buybox-new first last"><div class="header orange"><a href="https://www.amazon.com/Sony-ILCE9-B-a9-Parent/dp/B0722CDVSV?SubscriptionId=AKIAJHZHL2PTF4QQSIQA&amp;tag=dpreview-bbx8-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B0722CDVSV" target="_blank">Sony Alpha a9</a></div><div class="body"><div class="imageBlock"><div class="productImage"><a href="https://www.amazon.com/Sony-ILCE9-B-a9-Parent/dp/B0722CDVSV?SubscriptionId=AKIAJHZHL2PTF4QQSIQA&amp;tag=dpreview-bbx8-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B0722CDVSV" target="_blank"><img src="https://1.img-dpreview.com/files/p/TS120x120~products/sony_a9/fe6e2b6633ba453db0e50dee84b0e6b2.png" alt=""></a></div><a href="https://www.amazon.com/Sony-ILCE9-B-a9-Parent/dp/B0722CDVSV?SubscriptionId=AKIAJHZHL2PTF4QQSIQA&amp;tag=dpreview-bbx8-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B0722CDVSV" class="actionButton" target="_blank">Shop now</a></div><div class="variationsBlock actionButtonSingle"><table cellspacing="0" cellpadding="0" border="0"><tr><td class="name"><a href="https://www.amazon.com/Sony-ILCE9-B-a9-Parent/dp/B06ZY7GNKN?SubscriptionId=AKIAJHZHL2PTF4QQSIQA&amp;tag=dpreview-bbx8-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B06ZY7GNKN" target="_blank">Base, Base<div class="availabilityAndShipping"><div class="availability"><span class="preorder">Pre-order now</span></div><span class="shipping">Released on May 25, 2017</span></div></a></td><td class="price"><a href="https://www.amazon.com/Sony-ILCE9-B-a9-Parent/dp/B06ZY7GNKN?SubscriptionId=AKIAJHZHL2PTF4QQSIQA&amp;tag=dpreview-bbx8-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B06ZY7GNKN" target="_blank"><div class="pricesFrom">From</div><span class="priceAmount">$4,498.00</span> &#187;</a></td></tr><tr><td class="name"><a href="https://www.amazon.com/Sony-ILCE9-B-a9-Parent/dp/B06ZY8M23X?SubscriptionId=AKIAJHZHL2PTF4QQSIQA&amp;tag=dpreview-bbx8-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B06ZY8M23X" target="_blank">w/ Portrait Lens, Base<div class="availabilityAndShipping"><div class="availability"><span class="preorder">Pre-order now</span></div><span class="shipping">Not yet released</span></div></a></td><td class="price"><a href="https://www.amazon.com/Sony-ILCE9-B-a9-Parent/dp/B06ZY8M23X?SubscriptionId=AKIAJHZHL2PTF4QQSIQA&amp;tag=dpreview-bbx8-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B06ZY8M23X" target="_blank"><div class="pricesFrom">From</div><span class="priceAmount">$6,296.00</span> &#187;</a></td></tr><tr><td class="name"><a href="https://www.amazon.com/Sony-ILCE9-B-a9-Parent/dp/B071YHHMT3?SubscriptionId=AKIAJHZHL2PTF4QQSIQA&amp;tag=dpreview-bbx8-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B071YHHMT3" target="_blank">w/ Telephoto Lens, Base<div class="availabilityAndShipping"><div class="availability"><span class="preorder">Pre-order now</span></div><span class="shipping">Not yet released</span></div></a></td><td class="price"><a href="https://www.amazon.com/Sony-ILCE9-B-a9-Parent/dp/B071YHHMT3?SubscriptionId=AKIAJHZHL2PTF4QQSIQA&amp;tag=dpreview-bbx8-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B071YHHMT3" target="_blank"><div class="pricesFrom">From</div><span class="priceAmount">$6,996.00</span> &#187;</a></td></tr><tr><td class="name"><a href="https://www.amazon.com/Sony-ILCE9-B-a9-Parent/dp/B071DJXPTN?SubscriptionId=AKIAJHZHL2PTF4QQSIQA&amp;tag=dpreview-bbx8-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B071DJXPTN" target="_blank">w/ Zoom Lens, Base<div class="availabilityAndShipping"><div class="availability"><span class="preorder">Pre-order now</span></div><span class="shipping">Not yet released</span></div></a></td><td class="price"><a href="https://www.amazon.com/Sony-ILCE9-B-a9-Parent/dp/B071DJXPTN?SubscriptionId=AKIAJHZHL2PTF4QQSIQA&amp;tag=dpreview-bbx8-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B071DJXPTN" target="_blank"><div class="pricesFrom">From</div><span class="priceAmount">$6,696.00</span> &#187;</a></td></tr></table></div></div></div></div><div class="buyboxesLocationSwitch"><a href="https://www.dpreview.com/set-location?location=us&amp;returnUrl=https%3a%2f%2fwww.dpreview.com%2fproducts%2fsony%2fslrs%2fsony_a9%2foverview" class="locationUS selected"><span class="flag"></span></a><a href="https://www.dpreview.com/set-location?location=ca&amp;returnUrl=https%3a%2f%2fwww.dpreview.com%2fproducts%2fsony%2fslrs%2fsony_a9%2foverview" class="locationCA"><span class="flag"></span></a><a href="https://www.dpreview.com/set-location?location=uk&amp;returnUrl=https%3a%2f%2fwww.dpreview.com%2fproducts%2fsony%2fslrs%2fsony_a9%2foverview" class="locationUK"><span class="flag"></span></a><a href="https://www.dpreview.com/set-location?location=de&amp;returnUrl=https%3a%2f%2fwww.dpreview.com%2fproducts%2fsony%2fslrs%2fsony_a9%2foverview" class="locationDE"><span class="flag"></span></a><a href="https://www.dpreview.com/set-location?location=fr&amp;returnUrl=https%3a%2f%2fwww.dpreview.com%2fproducts%2fsony%2fslrs%2fsony_a9%2foverview" class="locationFR"><span class="flag"></span></a><a href="https://www.dpreview.com/set-location?location=es&amp;returnUrl=https%3a%2f%2fwww.dpreview.com%2fproducts%2fsony%2fslrs%2fsony_a9%2foverview" class="locationES"><span class="flag"></span></a><a href="https://www.dpreview.com/set-location?location=it&amp;returnUrl=https%3a%2f%2fwww.dpreview.com%2fproducts%2fsony%2fslrs%2fsony_a9%2foverview" class="locationIT"><span class="flag"></span></a><a href="https://www.dpreview.com/set-location?location=in&amp;returnUrl=https%3a%2f%2fwww.dpreview.com%2fproducts%2fsony%2fslrs%2fsony_a9%2foverview" class="locationIN"><span class="flag"></span></a><a href="https://www.dpreview.com/set-location?location=jp&amp;returnUrl=https%3a%2f%2fwww.dpreview.com%2fproducts%2fsony%2fslrs%2fsony_a9%2foverview" class="locationJP"><span class="flag"></span></a><a href="https://www.dpreview.com/set-location?location=cn&amp;returnUrl=https%3a%2f%2fwww.dpreview.com%2fproducts%2fsony%2fslrs%2fsony_a9%2foverview" class="locationCN"><span class="flag"></span></a></div>
+
+    </div>
+
+</div>
+                </div>
+                    <div class="sidebarBackground"></div>
+                    <div class="sidebar">
+                        
+
+
+
+<div id="adSlot_top" class="ad ad300x250" style="height: 250px;"><script type="text/javascript">googletag.cmd.push(function() { googletag.display("adSlot_top"); AdUtils.trackImpression("top"); });</script></div>
+
+
+<div class="widget twitterWidget">
+    <div class="widgetTitle">
+        <a href="http://www.twitter.com/dpreview" target="_blank">
+            <span class="at">@</span>dpreview
+        </a>
+    </div>
+    <div class="widgetContent">
+        <a class="twitter-timeline" href="https://twitter.com/dpreview" data-widget-id="505058269711200256" width="300" height="400" data-chrome="noheader">Tweets by @dpreview</a>
+        <script>!function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0], p = /^http:/.test(d.location) ? 'http' : 'https'; if (!d.getElementById(id)) { js = d.createElement(s); js.id = id; js.src = p + "://platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs); } }(document, "script", "twitter-wjs");</script>
+    </div>
+</div>
+
+
+
+
+
+<div class="widget latestReviewsWidgetV2"><div class="widgetTitle">Latest reviews</div><div class="widgetContent"><div class="reviews" id="latestReviewsSidebarWidget"><div class="review"><table cellspacing="0" cellpadding="0" border="0" class="review"><tbody><tr><td class="image"><a href="https://www.dpreview.com/reviews/sony-a9-full-review"><img src="https://3.img-dpreview.com/files/p/TS60x60PFFFFFF00~products/sony_a9/fe6e2b6633ba453db0e50dee84b0e6b2.png" width="60" height="60" border="0" alt="Sony Alpha a9"></a></td><td class="title"><div class="title"><a href="https://www.dpreview.com/reviews/sony-a9-full-review">Sony Alpha a9</a></div></td><td class="scoreAndAward withBadge"><span class="award gold"></span><span class="score"><span class="value">89</span><span class="percentageSign">%</span></span></td></tr></tbody></table></div><div class="review"><table cellspacing="0" cellpadding="0" border="0" class="review"><tbody><tr><td class="image"><a href="https://www.dpreview.com/reviews/lg-g6-camera-review"><img src="https://2.img-dpreview.com/files/p/TS60x60PFFFFFF00~products/lg_g6/c37db91588b64ab79e19dd8c254deaa0.jpeg" width="60" height="60" border="0" alt="LG G6"></a></td><td class="title"><div class="title"><a href="https://www.dpreview.com/reviews/lg-g6-camera-review">LG G6</a></div></td><td class="scoreAndAward scoreOnly"><span class="score"><span class="value">85</span><span class="percentageSign">%</span></span></td></tr></tbody></table></div><div class="review"><table cellspacing="0" cellpadding="0" border="0" class="review"><tbody><tr><td class="image"><a href="https://www.dpreview.com/reviews/sigma-sd-quattro-h"><img src="https://2.img-dpreview.com/files/p/TS60x60PFFFFFF00~products/sigma_sdquattroh/2835ebb50e07412bab313af7dc29795f.png" width="60" height="60" border="0" alt="Sigma sd Quattro H"></a></td><td class="title"><div class="title"><a href="https://www.dpreview.com/reviews/sigma-sd-quattro-h">Sigma sd Quattro H</a></div></td><td class="scoreAndAward scoreOnly"><span class="score"><span class="value">77</span><span class="percentageSign">%</span></span></td></tr></tbody></table></div><div class="review"><table cellspacing="0" cellpadding="0" border="0" class="review"><tbody><tr><td class="image"><a href="https://www.dpreview.com/reviews/canon-eos-m6"><img src="https://3.img-dpreview.com/files/p/TS60x60PFFFFFF00~products/canon_eosm6/d4c1997f2f0f45698dd33a5ca83df5dc.png" width="60" height="60" border="0" alt="Canon EOS M6"></a></td><td class="title"><div class="title"><a href="https://www.dpreview.com/reviews/canon-eos-m6">Canon EOS M6</a></div></td><td class="scoreAndAward withBadge"><span class="award silver"></span><span class="score"><span class="value">80</span><span class="percentageSign">%</span></span></td></tr></tbody></table></div><div class="review"><table cellspacing="0" cellpadding="0" border="0" class="review"><tbody><tr><td class="image"><a href="https://www.dpreview.com/reviews/panasonic-lumix-dmc-gx850-gx800-gf9"><img src="https://3.img-dpreview.com/files/p/TS60x60PFFFFFF00~products/panasonic_dcgx850/191477fb9c0b4ce48390c9d2c79a2856.png" width="60" height="60" border="0" alt="Panasonic Lumix DC-GX850 (Lumix DC-GX800 / Lumix DC-GF9)"></a></td><td class="title"><div class="title"><a href="https://www.dpreview.com/reviews/panasonic-lumix-dmc-gx850-gx800-gf9">Panasonic Lumix DC-GX850/GX800 review</a></div></td><td class="scoreAndAward scoreOnly"><span class="score"><span class="value">76</span><span class="percentageSign">%</span></span></td></tr></tbody></table></div></div><div class="seeMoreV2"><a href="https://www.dpreview.com/reviews">See all reviews</a> &raquo;</div></div></div><script type="text/javascript">LatestReviewsSidebarWidget()</script>
+
+
+<div class="widget challengeWinnersWidgetV2"><div class="widgetTitle">Finished challenges</div><div class="widgetContent"><div id="challengeWinnersWidget"><div class="entriesContainer"><table cellspacing="0" cellpadding="0" border="0" class="entries"><tbody><tr><td class="image" style="height: 240px"><a href="https://www.dpreview.com/challenges/Entry.aspx?ID=1034661" style="width: 230px; height: 240px;"><img src="https://g3.img-dpreview.com/F0218417C6414C42BE501CE57304C19F.jpg" width="230" height="240" alt="scrum break away"></a></td><td class="image" style="height: 240px"><a href="https://www.dpreview.com/challenges/Entry.aspx?ID=1034945" style="width: 240px; height: 158px;"><img src="https://g4.img-dpreview.com/FD3578C6524845378A3FCAE678CE9342.jpg" width="240" height="158" alt="Parking Deck"></a></td><td class="image" style="height: 240px"><a href="https://www.dpreview.com/challenges/Entry.aspx?ID=1034734" style="width: 168px; height: 240px;"><img src="https://g3.img-dpreview.com/C34F640989E54AA2959D5A6AF233D377.jpg" width="168" height="240" alt="Communication Tech"></a></td><td class="image" style="height: 240px"><a href="https://www.dpreview.com/challenges/Entry.aspx?ID=1034899" style="width: 240px; height: 150px;"><img src="https://g2.img-dpreview.com/98B45FFC6679425AA75366C1243B80C9.jpg" width="240" height="150" alt="With &amp; without"></a></td></tr><tr><td class="caption">scrum break away by al booth<br>from Sport competition</td><td class="caption">Parking Deck by Olaf R<br>from Your City - Parking Garage</td><td class="caption">Communication Tech by alberto_b<br>from Technology</td><td class="caption">With &amp; without by OBellini<br>from Empty - Full</td></tr></tbody></table></div><div class="paging"><div class="left"></div><div class="right"></div></div></div><div class="seeMoreV2"><a href="https://www.dpreview.com/challenges/">Discover more challenges</a> &raquo;</div><script type="text/javascript">WidgetChallengesV2()</script></div></div>
+
+
+
+
+
+<div class="widget topCamerasWidgetV2"><div class="widgetTitle">Most popular cameras</div><div class="widgetContent"><div class="cameras"><a class="camera" href="https://www.dpreview.com/products/canon/slrs/canon_eos77d"><span class="name">Canon EOS 77D / EOS 9000D</span><span class="barContainer"><span class="bar"><span class="fill" style="width: 100.00%"></span></span><span class="views">2.8%</span></span></a><a class="camera" href="https://www.dpreview.com/products/panasonic/compacts/panasonic_dmclx10"><span class="name">Panasonic Lumix DMC-LX10 (Lumix DMC-LX15)</span><span class="barContainer"><span class="bar"><span class="fill" style="width: 84.47%"></span></span><span class="views">2.4%</span></span></a><a class="camera" href="https://www.dpreview.com/products/panasonic/compacts/panasonic_dmczs100"><span class="name">Panasonic Lumix DMC-ZS100 (Lumix DMC-TZ100)</span><span class="barContainer"><span class="bar"><span class="fill" style="width: 83.02%"></span></span><span class="views">2.3%</span></span></a><a class="camera" href="https://www.dpreview.com/products/sony/compacts/sony_dscrx100m5"><span class="name">Sony Cyber-shot DSC-RX100 V</span><span class="barContainer"><span class="bar"><span class="fill" style="width: 82.93%"></span></span><span class="views">2.3%</span></span></a><a class="camera" href="https://www.dpreview.com/products/panasonic/slrs/panasonic_dcgh5"><span class="name">Panasonic Lumix DC-GH5</span><span class="barContainer"><span class="bar"><span class="fill" style="width: 71.62%"></span></span><span class="views">2.0%</span></span></a><a class="camera" href="https://www.dpreview.com/products/fujifilm/compacts/fujifilm_x100f"><span class="name">Fujifilm X100F</span><span class="barContainer"><span class="bar"><span class="fill" style="width: 54.54%"></span></span><span class="views">1.5%</span></span></a><a class="camera" href="https://www.dpreview.com/products/fujifilm/slrs/fujifilm_gfx50s"><span class="name">Fujifilm GFX 50S</span><span class="barContainer"><span class="bar"><span class="fill" style="width: 51.25%"></span></span><span class="views">1.4%</span></span></a><a class="camera" href="https://www.dpreview.com/products/panasonic/compacts/panasonic_dmclx100"><span class="name">Panasonic Lumix DMC-LX100</span><span class="barContainer"><span class="bar"><span class="fill" style="width: 43.50%"></span></span><span class="views">1.2%</span></span></a><a class="camera" href="https://www.dpreview.com/products/sony/slrs/sony_a7rii"><span class="name">Sony Alpha 7R II</span><span class="barContainer"><span class="bar"><span class="fill" style="width: 41.61%"></span></span><span class="views">1.2%</span></span></a><a class="camera" href="https://www.dpreview.com/products/canon/compacts/canon_g7xii"><span class="name">Canon PowerShot G7 X Mark II</span><span class="barContainer"><span class="bar"><span class="fill" style="width: 37.08%"></span></span><span class="views">1.0%</span></span></a></div><div class="seeMoreV2"><a href="https://www.dpreview.com/products/slrs/statistics">Other popular cameras</a> &raquo;</div></div></div>
+
+
+    <div class="widget">
+        <a href="http://www.amazon.com/b/ref=dpr_persona_1120?ie=UTF8&amp;node=9375388011&amp;tag=dpr_persona-20"><img src="https://images-na.ssl-images-amazon.com/images/G/01/img15/camera-photo/associates/29699_na_camera_nov18_amazon-personas_300X250.gif" width="300" height="250" border="0" alt="Save on Amazon"></a>
+    </div>
+
+
+
+<div class="widget featuredContentWidget"><div class="widgetTitle">Features</div><div class="widgetContent"><div class="items"><a class="item" href="https://www.dpreview.com/beginner-guides" alt="Getting Started" title="Getting Started"><img src="https://2.img-dpreview.com/files/p/C0x0S570x304T300x160~feature_blocks/d9186d0aaf304ce18abb2c98aada87d5.jpeg?v=4098" width="300" height="160" border="0" alt="Getting Started"><span class="info"><span class="category">Beginner&#39;s Guides</span><span class="title">Getting Started</span></span><span class="frame"></span></a><a class="item" href="https://www.dpreview.com/reviews" alt="Latest Camera Reviews" title="Latest Camera Reviews"><img src="https://4.img-dpreview.com/files/p/C0x0S300x160~feature_blocks/52ea32bc5b644e44899ae95108a3d1a1.jpeg?v=4098" width="300" height="160" border="0" alt="Latest Camera Reviews"><span class="info"><span class="category">In-depth testing</span><span class="title">Latest Camera Reviews</span></span><span class="frame"></span></a><a class="item" href="https://www.dpreview.com/features" alt="Feature Articles and Videos" title="Feature Articles and Videos"><img src="https://3.img-dpreview.com/files/p/C0x0S300x160~feature_blocks/2c8e245a180e4829b503ba65449a8fb5.jpeg?v=4098" width="300" height="160" border="0" alt="Feature Articles and Videos"><span class="info"><span class="category">Beyond the studio tests</span><span class="title">Feature Articles and Videos</span></span><span class="frame"></span></a><a class="item" href="https://www.dpreview.com/videos/field-tests" alt="Field Test Videos" title="Field Test Videos"><img src="https://4.img-dpreview.com/files/p/C0x0S300x160~feature_blocks/8abd072a0ca24f6a9b48330314d2588a.jpeg?v=4098" width="300" height="160" border="0" alt="Field Test Videos"><span class="info"><span class="category">real world performance</span><span class="title">Field Test Videos</span></span><span class="frame"></span></a><a class="item" href="https://www.dpreview.com/sample-galleries" alt="Sample Galleries" title="Sample Galleries"><img src="https://2.img-dpreview.com/files/p/C0x0S300x160~feature_blocks/b83d74dcb4244ea29979c36337c3b0f7.jpeg?v=4098" width="300" height="160" border="0" alt="Sample Galleries"><span class="info"><span class="category">see how we see</span><span class="title">Sample Galleries</span></span><span class="frame"></span></a><a class="item" href="https://www.dpreview.com/reviews/fujifilm-x100f" alt="Fujifilm X100F" title="Fujifilm X100F"><img src="https://2.img-dpreview.com/files/p/C0x0S4151x2214T300x160~feature_blocks/18b64c97dddc4934aafa2bb7557c1702.jpeg?v=4098" width="300" height="160" border="0" alt="Fujifilm X100F"><span class="info"><span class="category">In-depth Review</span><span class="title">Fujifilm X100F</span></span><span class="frame"></span></a><a class="item" href="https://www.dpreview.com/cp-plus-2017" alt="Hits and Misses from CP+ 2017" title="Hits and Misses from CP+ 2017"><img src="https://2.img-dpreview.com/files/p/C0x0S588x314T300x160~feature_blocks/e7a0ea5954e349a48c0ce0157cbac7ec.jpeg?v=4098" width="300" height="160" border="0" alt="Hits and Misses from CP+ 2017"><span class="info"><span class="category">Show Coverage</span><span class="title">Hits and Misses from CP+ 2017</span></span><span class="frame"></span></a><a class="item" href="https://www.dpreview.com/tag/throwback-thursday" alt="Classic Cameras from Days Past" title="Classic Cameras from Days Past"><img src="https://4.img-dpreview.com/files/p/C0x0S900x480T300x160~feature_blocks/cc27751e84f841749f31cc8273d0a629.jpeg?v=4098" width="300" height="160" border="0" alt="Classic Cameras from Days Past"><span class="info"><span class="category">Throwback Thursday</span><span class="title">Classic Cameras from Days Past</span></span><span class="frame"></span></a><a class="item" href="https://www.dpreview.com/tag/noise" alt="Shedding some light on the sources of noise" title="Shedding some light on the sources of noise"><img src="https://2.img-dpreview.com/files/p/C0x16S520x277T300x160~feature_blocks/e91e9bf455c84422a52627a12797e541.jpeg?v=4098" width="300" height="160" border="0" alt="Shedding some light on the sources of noise"><span class="info"><span class="category">What&#39;s that Noise?</span><span class="title">Shedding some light on the sources of noise</span></span><span class="frame"></span></a><a class="item" href="https://www.dpreview.com/articles/2666934640" alt="What is equivalence?" title="What is equivalence?"><img src="https://1.img-dpreview.com/files/p/C0x40S520x277T300x160~feature_blocks/45f7884a3d4d4bd7b0fc4a0f04dcf7b4.jpeg?v=4098" width="300" height="160" border="0" alt="What is equivalence?"><span class="info"><span class="commentBubbleLink"><span class="commentBubbleCount">2457<span class="commentBubbleArrow"></span></span></span><span class="category">Feature</span><span class="title">What is equivalence?</span></span><span class="frame"></span></a></div></div></div>
+
+
+<div id="adSlot_bottom" class="ad ad300x250" style="height: 250px;"><script type="text/javascript">googletag.cmd.push(function() { googletag.display("adSlot_bottom"); AdUtils.trackImpression("bottom"); });</script></div>
+
+
+<div class="widget topForumTreadsWidget"><div class="widgetTitle">Top threads</div><div class="widgetContent"><div class="simpleListWithCounts"><table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td class="count">98</td><td class="text"><a href="https://www.dpreview.com/forums/post/59750173">Leica look?</a></td></tr><tr><td class="count">82</td><td class="text"><a href="https://www.dpreview.com/forums/post/59750154">6D mark II more specs coming out</a></td></tr><tr><td class="count">46</td><td class="text"><a href="https://www.dpreview.com/forums/post/59750852">New Metabones V57 has improved green AF accross the PDAF area!</a></td></tr><tr><td class="count">40</td><td class="text"><a href="https://www.dpreview.com/forums/post/59747758">Thinking of selling Oly 40-150 Pro. Help!</a></td></tr><tr><td class="count">38</td><td class="text"><a href="https://www.dpreview.com/forums/post/59753293">Picking First DSLR Camera?</a></td></tr><tr><td class="count">36</td><td class="text"><a href="https://www.dpreview.com/forums/post/59754858">Best kit for lightweight travel</a></td></tr><tr><td class="count">33</td><td class="text"><a href="https://www.dpreview.com/forums/post/59754344">Is there still demand for fast primes?</a></td></tr><tr><td class="count">32</td><td class="text"><a href="https://www.dpreview.com/forums/post/59751975">Whats your biggest photography bargain ?</a></td></tr><tr><td class="count">31</td><td class="text"><a href="https://www.dpreview.com/forums/post/59750144">Nikon D5300 + 18-140 Nikkor not happy with sharpness</a></td></tr><tr><td class="count">31</td><td class="text"><a href="https://www.dpreview.com/forums/post/59755390">Looking for back up solution protected against ransomware</a></td></tr><tr><td class="count">28</td><td class="text"><a href="https://www.dpreview.com/forums/post/59751586">70-200/4 weather seal question</a></td></tr><tr><td class="count">28</td><td class="text"><a href="https://www.dpreview.com/forums/post/59751639">Help me understand the 28-70 and its limitations</a></td></tr><tr><td class="count">27</td><td class="text"><a href="https://www.dpreview.com/forums/post/59752067">Why k3iii should come.</a></td></tr><tr><td class="count">26</td><td class="text"><a href="https://www.dpreview.com/forums/post/59755691">Tens of thousand images out there, I don&#39;t see one of them</a></td></tr><tr><td class="count">25</td><td class="text"><a href="https://www.dpreview.com/forums/post/59752336">Puzzled about first PL100-400 pics</a></td></tr><tr><td class="count">25</td><td class="text"><a href="https://www.dpreview.com/forums/post/59752519">Show Your Snaps...June 26, 2017</a></td></tr><tr><td class="count">24</td><td class="text"><a href="https://www.dpreview.com/forums/post/59752747">All lenses are decentered</a></td></tr><tr><td class="count">22</td><td class="text"><a href="https://www.dpreview.com/forums/post/59752272">How will a sony A7ii function with a canon 17-55 2.8 lens</a></td></tr><tr><td class="count">22</td><td class="text"><a href="https://www.dpreview.com/forums/post/59753933">What &quot;adapted&quot; lenses are of some interest to you??</a></td></tr><tr><td class="count">22</td><td class="text"><a href="https://www.dpreview.com/forums/post/59750328">Whippin&#39; Out the 55-210 for a Safari Ride</a></td></tr></tbody></table></div></div></div>
+
+
+                    </div>
+                <div style="clear: both"></div>
+            </div>
+        </div>
+
+    </div>
+
+    
+<div class="siteFooter">
+    <div class="sitFooterInner">
+        <div class="misc">
+            <div class="logo">
+                <a href="https://www.dpreview.com" title="dpreview.com: Digital Photograhy Review" class="dpr">www.dpreview.com</a>
+            </div>
+            <div class="social">
+                <div class="title">
+                    Follow us
+                </div>
+                <div class="icons"><a href="http://www.facebook.com/pages/dpreviewcom-Digital-Photography-Review/77409488739" class="facebook" title="Facebook"><span class="icon"></span></a><a href="https://twitter.com/dpreview" class="twitter" title="Twitter"><span class="icon"></span></a><a href="https://instagram.com/dpreview/" class="instagram" title="Instagram"><span class="icon"></span></a><a href="http://dpreview.tumblr.com" class="tumblr" title="Tumblr"><span class="icon"></span></a><a href="https://www.youtube.com/user/dpreviewcom" class="youtube" title="YouTube"><span class="icon"></span></a><a href="https://www.dpreview.com/subscribe-to-newsletter" class="newsletter" title="Sign up for our weekly newsletter!"><span class="icon"></span></a></div>
+            </div>
+            <div class="mobile">
+                <a href="https://www.dpreview.com/device/mobile">Mobile site</a>
+            </div>
+        </div>
+        <div class="sitemapAndLegal">
+            <div class="sitemap">
+                <div class="area">
+                    <div class="title">About</div>
+                    <ul>
+                        <li><a href="https://www.dpreview.com/about">About us</a></li>
+                        <li><a href="https://www.dpreview.com/misc/jobs">Work for us</a></li>
+                        <li><a href="https://advertising.amazon.com/lp/dpreview">Advertise with us</a></li>
+                        <li><a href="https://www.dpreview.com/faq">FAQ</a></li>
+                        <li><a href="https://www.dpreview.com/feedback" id="feedbackMainFooterLink">Feedback</a></li>
+                        <li><a href="https://www.amazon.com/InterestBasedAds">Interest-Based Ads</a></li>
+                        <li><a href="https://www.dpreview.com/misc/privacypolicy">Privacy</a></li>
+                        <li><a href="https://www.dpreview.com/misc/termsandconditions">Legal</a></li>
+                    </ul>
+                </div>
+                <div class="area">
+                    <div class="title">Editorial content</div>
+                    <ul>
+                        <li><a href="https://www.dpreview.com">News</a></li>
+                        <li><a href="https://www.dpreview.com/reviews?category=cameras">Camera reviews</a></li>
+                        <li><a href="https://www.dpreview.com/reviews?category=lenses">Lens reviews</a></li>
+                        <li><a href="https://www.dpreview.com/reviews?category=printers">Printer reviews</a></li>
+                        <li><a href="https://www.dpreview.com/buying-guides">Buying guides</a></li>
+                        <li><a href="https://www.dpreview.com/sample-galleries">Sample images</a></li>
+                        <li><a href="https://www.dpreview.com/videos">Videos</a></li>
+                    </ul>
+                </div>
+                <div class="area">
+                    <div class="title">Cameras &amp; Lenses</div>
+                    <ul>
+                        <li><a href="https://www.dpreview.com/products/cameras">Cameras</a></li>
+                        <li><a href="https://www.dpreview.com/products/lenses">Lenses</a></li>
+                        <li><a href="https://www.dpreview.com/products/search/cameras">Camera search</a></li>
+                        <li><a href="https://www.dpreview.com/products/compare/cameras">Camera comparison</a></li>
+                        <li><a href="https://www.dpreview.com/products/search/lenses">Lens search</a></li>
+                        <li><a href="https://www.dpreview.com/products/timeline">Product timeline</a></li>
+                        <li><a href="https://www.dpreview.com/products">Browse all products</a></li>
+                    </ul>
+                </div>
+                <div class="area">
+                    <div class="title">Community</div>
+                    <ul>
+                        <li><a href="https://www.dpreview.com/forums">Forums</a></li>
+                        <li><a href="https://www.dpreview.com/challenges">Challenges</a></li>
+                        <li><a href="https://www.dpreview.com/galleries">Galleries</a></li>
+                        
+                        <li><a href="https://www.dpreview.com/members/me">My Profile</a></li>
+                        <li><a href="https://www.dpreview.com/members/settings">My Settings</a></li>
+                        <li><a href="https://www.dpreview.com/members/me/gearlist">My GearList</a></li>
+                    </ul>
+                </div>
+                <div style="clear: both;"></div>
+            </div>
+            <div class="legal">
+                All content, design, and layout are Copyright &copy; 1998 - 2017 Digital Photography Review All Rights Reserved.<br>
+                Reproduction in whole or part in any form or medium without specific written permission is prohibited.
+            </div>
+        </div> 
+        <div style="clear: both;"></div>
+    </div>
+</div>
+
+    
+    <script type="text/javascript">
+
+        (function(i, s, o, g, r, a, m)
+        {
+            i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function()
+            {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date(); a = s.createElement(o),
+            m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-9061140-2', 'auto');
+        ga('set', 'dimension1', "No"); // Logged in
+        ga('set', 'dimension2', "Yes"); // Light skin
+        ga('send', 'pageview');
+
+    </script>
+    <script type="text/javascript">
+
+        $(document).ready(function()
+        {
+
+            var beacon = function(d)
+            {
+                if (!d) return;
+                var a = 1.7;
+                var e = document;
+                var h = e.location;
+                var g = 512;
+                var c = function(i, j)
+                {
+                    if (i == null) { return "" }
+                    i = (encodeURIComponent || escape)(i);
+                    if (j)
+                    {
+                        i = i.substr(0, j)
+                    }
+                    return i
+                },
+                f = [(h.protocol == "https:" ? "https://sb" : "http://b"), ".scorecardresearch.com/b?", "c1=", c(d.c1), "&c2=", c(d.c2), "&rn=", Math.random(), "&c7=", c(h.href, g), "&c3=", c(d.c3), "&c4=", c(d.c4, g), "&c5=", c(d.c5), "&c6=", c(d.c6), "&c10=", c(d.c10), "&c15=", c(d.c15), "&c16=", c(d.c16), "&c8=", c(e.title), "&c9=", c(e.referrer, g), "&cv=", a, d.r ? "&r=" + c(d.r, g) : ""].join("");
+                f = f.length > 2080 ? f.substr(0, 2075) + "&ct=1" : f;
+                var b = new Image();
+                b.onload = function() { };
+                b.src = f;
+                return f
+            };
+
+            beacon({ c1: 2, c2: "6034961", c3: "", c4: location.href, c5: "", c6: "", c15: "" });
+
+        });
+
+    </script>
+    <noscript>
+        <img src="https://sb.scorecardresearch.com/p?c1=2&amp;c2=6034961&amp;c3=&amp;c4=&amp;c5=c6=&amp;15=&amp;cj=1">
+    </noscript>
+    <script type="text/javascript" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script>
+    <script type="text/javascript">_atrk_opts = { atrk_acct: "MAy5f1aEYc000X", domain:"dpreview.com"}; if(typeof atrk === 'function') atrk();</script>
+    <noscript>
+        <img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=MAy5f1aEYc000X" style="display: none" height="1" width="1" alt="">
+    </noscript>
+    <script type="text/javascript">
+
+        $(document).ready(function()
+        {
+
+            var iframeBaseUrl = "//s.amazon-adsystem.com/iu3";
+
+            // SIS by way of "Universal Cookie"
+            var params = {};
+            params["d"] = "dpreview.com";
+            params["r"] = "1";
+            params["rP"] = location.href;
+            if (User.isAuthenticated()) params["a1"] = User.getUserId();
+            params["ts"] = new Date().getTime();
+
+            $("<iframe/>").
+                attr("src", iframeBaseUrl + "?" + $.param(params)).
+                attr("width", "0").
+                attr("height", "0").
+                attr("frameborder", "0").
+                attr("marginwidth", "0").
+                attr("marginheight", "0").
+                appendTo(document.body);
+
+            // SIS by way of "ex-hargs" -- this seems to be the latest and greatest
+            var paramsSis = {};
+            paramsSis["d"] = "dpreview.com";
+            paramsSis["cb"] = new Date().getTime();
+            paramsSis["ex-hargs"] = encodeURI("v=1.0;c=DPREVIEW;p=DPREVIEW");
+
+            $("<iframe/>").
+                attr("src", iframeBaseUrl + "?" + $.param(paramsSis)).
+                attr("width", "0").
+                attr("height", "0").
+                attr("frameborder", "0").
+                attr("marginwidth", "0").
+                attr("marginheight", "0").
+                appendTo(document.body);
+
+            // SIS by way of AbA/Forester/"ex-fargs"
+            var up;
+            if (location.pathname == "/")
+                up = "CS_1500532001";
+            else if (location.pathname.toLowerCase().indexOf("/reviews") == 0)
+                up = "CS_1500533001";
+            else if (location.pathname.toLowerCase().indexOf("/products") == 0)
+                up = "CS_1500534001";
+            else if (location.pathname.toLowerCase().indexOf("/forums") == 0)
+                up = "CS_1500535001";
+            else if (location.pathname.toLowerCase().indexOf("/galleries") == 0)
+                up = "CS_1500536001";
+            else if (location.pathname.toLowerCase().indexOf("/news") == 0)
+                up = "CS_1500537001";
+            else if (location.pathname.toLowerCase().indexOf("/previews") == 0)
+                up = "CS_1500538001";
+            else if (location.pathname.toLowerCase().indexOf("/challenges") == 0)
+                up = "CS_1500539001";
+            else if (location.pathname.toLowerCase().indexOf("/articles") == 0)
+                up = "CS_1500635001";
+            else if (location.pathname.toLowerCase().indexOf("/search") == 0)
+                up = "CS_1500636001";
+            else if (location.pathname.toLowerCase().indexOf("/members") == 0)
+                up = "CS_1500637001";
+
+            if (up)
+            {
+                var params2 = {};
+                params2["d"] = "forester-did";
+                params2["ex-fargs"] = encodeURI("?sr=P&m=1&c=1509396001&a=1545675001&up=" + up);
+                params2["ex-fch"] = "416619";
+                params2["cb"] = "";
+
+                $("<iframe/>").
+                    attr("src", iframeBaseUrl + "?" + $.param(params2)).
+                    attr("width", "0").
+                    attr("height", "0").
+                    attr("frameborder", "0").
+                    attr("marginwidth", "0").
+                    attr("marginheight", "0").
+                    appendTo(document.body);
+            }
+
+        });
+
+    </script>
+
+
+    <div id="fb-root"></div>
+<script type="text/javascript">
+    $(document).ready(function()
+    {
+
+        (function(d, s, id) {
+          var js, fjs = d.getElementsByTagName(s)[0];
+          if (d.getElementById(id)) return;
+          js = d.createElement(s); js.id = id;
+          js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.7&appId=190565384410239";
+          fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));
+
+        // Twitter
+        $.getScript("https://platform.twitter.com/widgets.js");
+
+        // G+
+        $.getScript("https://apis.google.com/js/platform.js");
+
+    });
+</script>
+
+
+<script type="text/javascript" async defer src="//assets.pinterest.com/js/pinit.js"></script>
+
+
+
+
+</body>
+</html>
