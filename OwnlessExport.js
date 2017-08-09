@@ -165,6 +165,11 @@ module.exports = knex => {
     }
     extraSpecs.gps = gps;
 
+    extraSpecs = Object.keys(extraSpecs).reduce(function(obj, key) {
+      obj["camera_" + key] = extraSpecs[key];
+      return obj;
+    }, {});
+
     return extraSpecs;
   };
 
@@ -257,6 +262,11 @@ module.exports = knex => {
     extraSpecs.filter_thread = filter_thread;
     extraSpecs.sealing = sealing;
 
+    extraSpecs = Object.keys(extraSpecs).reduce(function(obj, key) {
+      obj["lens_" + key] = extraSpecs[key];
+      return obj;
+    }, {});
+
     return extraSpecs;
   };
 
@@ -282,7 +292,7 @@ module.exports = knex => {
           let info = {};
 
           // id
-          info.id = product.id;
+          info.api_id = product.id;
 
           // name
           info.name = product.name;
@@ -304,7 +314,7 @@ module.exports = knex => {
             let priceMatch;
 
             if ((priceMatch = priceRegex.exec(price)) !== null) {
-              price = priceMatch[1];
+              price = Number(priceMatch[1]);
             } else {
               price = null;
             }
@@ -324,7 +334,7 @@ module.exports = knex => {
             if (~short_specs.length) {
               detailed_type = short_specs[0].trim();
             }
-            info.detailed_type = detailed_type;
+            info.lens_detailed_type = detailed_type;
           }
 
           // remaining specs
