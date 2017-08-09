@@ -231,6 +231,8 @@ module.exports = knex => {
     let focusGroup = fG("Focus");
     if (focusGroup && ~focusGroup.facts.length) {
       autofocus = findFact(focusGroup)("Autofocus");
+      if (autofocus === "Yes") autofocus = true;
+      if (autofocus === "No") autofocus = false;
     }
     extraSpecs.autofocus = autofocus;
 
@@ -296,12 +298,23 @@ module.exports = knex => {
           } else {
             price = product.price;
           }
+          if (price !== null) {
+            price = price.replace(/,/g, "");
+            let priceRegex = /\$(\d*\.?\d{0,2})/;
+            let priceMatch;
+
+            if ((priceMatch = priceRegex.exec(price)) !== null) {
+              price = priceMatch[1];
+            } else {
+              price = null;
+            }
+          }
           info.price = price;
 
           // release date
           let release_date = product.release_date;
           if (release_date !== null) {
-            release_date = moment(release_date).format("MMM D, YYYY");
+            release_date = moment(release_date).format("YYYY-MM-DD");
           }
           info.release_date = release_date;
 
