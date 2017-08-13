@@ -273,9 +273,9 @@ module.exports = knex => {
   let OwnlessExport = (req, res, { type }) => {
     res.setHeader("Content-Type", "application/json; charset=utf-8");
 
-    knex
+    let productRequest = knex
       .select([
-        "product.id",
+        "product.id as api_id",
         "product.name",
         "brand.name as brand",
         "product.short_specs",
@@ -285,75 +285,99 @@ module.exports = knex => {
       ])
       .from("product")
       .innerJoin("brand", "product.brand", "=", "brand.id")
-      .where({ type: type })
-      .then(products => {
-        let infos = products.map(product => {
-          let specs = product.specs;
-          let info = {};
+      .where({ type: type });
 
-          // id
-          info.api_id = product.id;
+    let imageRequest = knex
+      .select([
+        "product_image.id as id",
+        "product_image.url",
+        "product_image.product"
+      ])
+      .from("product_image")
+      .innerJoin("product", "product_image.product", "=", "product.id")
+      .where({ type: type });
 
-          // name
-          info.name = product.name;
+    Promise.all([productRequest, imageRequest]).then(values => {
+      let products = values[0];
+      let images = values[1];
 
-          // brand
-          info.brand = product.brand;
+      let infos = products.map(product => {
+        let specs = product.specs;
+        let info = {};
 
-          // price
-          let price = null;
-          let priceGroup = findGroup(specs)("Price");
-          if (priceGroup && ~priceGroup.facts.length) {
-            price = findFact(priceGroup)("MSRP");
-          } else {
-            price = product.price;
-          }
-          if (price !== null) {
-            price = price.replace(/,/g, "");
-            let priceRegex = /\$(\d*\.?\d{0,2})/;
-            let priceMatch;
+        // id
+        info.api_id = product.api_id;
 
-            if ((priceMatch = priceRegex.exec(price)) !== null) {
-              price = Number(priceMatch[1]);
-            } else {
-              price = null;
-            }
-          }
-          info.price = price;
+        // name
+        info.name = product.name;
 
-          // release date
-          let release_date = product.release_date;
-          if (release_date !== null) {
-            release_date = moment(release_date).format("YYYY-MM-DD");
-          }
-          info.release_date = release_date;
+        // brand
+        info.brand = product.brand;
 
-          if (type === "lens") {
-            let detailed_type = null;
-            let short_specs = product.short_specs.split("|");
-            if (~short_specs.length) {
-              detailed_type = short_specs[0].trim();
-            }
-            info.lens_detailed_type = detailed_type;
-          }
-
-          // remaining specs
-          let remainingSpecs = {};
-          switch (type) {
-            case "camera":
-              remainingSpecs = getCameraSpecs(specs);
-              break;
-            case "lens":
-              remainingSpecs = getLensSpecs(specs);
-              break;
-          }
-          Object.assign(info, remainingSpecs);
-
-          return info;
+        // image
+        let image_url = null;
+        let possible_image_url = images.find(img => {
+          return img.product === product.api_id;
         });
+        if (possible_image_url) {
+          image_url = possible_image_url.url;
+        }
+        info.image_url = image_url;
 
-        res.end(j(infos));
+        // price
+        let price = null;
+        let priceGroup = findGroup(specs)("Price");
+        if (priceGroup && ~priceGroup.facts.length) {
+          price = findFact(priceGroup)("MSRP");
+        } else {
+          price = product.price;
+        }
+        if (price !== null) {
+          price = price.replace(/,/g, "");
+          let priceRegex = /\$(\d*\.?\d{0,2})/;
+          let priceMatch;
+
+          if ((priceMatch = priceRegex.exec(price)) !== null) {
+            price = Number(priceMatch[1]);
+          } else {
+            price = null;
+          }
+        }
+        info.price = price;
+
+        // release date
+        let release_date = product.release_date;
+        if (release_date !== null) {
+          release_date = moment(release_date).format("YYYY-MM-DD");
+        }
+        info.release_date = release_date;
+
+        if (type === "lens") {
+          let detailed_type = null;
+          let short_specs = product.short_specs.split("|");
+          if (~short_specs.length) {
+            detailed_type = short_specs[0].trim();
+          }
+          info.lens_detailed_type = detailed_type;
+        }
+
+        // remaining specs
+        let remainingSpecs = {};
+        switch (type) {
+          case "camera":
+            remainingSpecs = getCameraSpecs(specs);
+            break;
+          case "lens":
+            remainingSpecs = getLensSpecs(specs);
+            break;
+        }
+        Object.assign(info, remainingSpecs);
+
+        return info;
       });
+
+      res.end(j(infos));
+    });
   };
 
   return OwnlessExport;
