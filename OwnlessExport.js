@@ -315,14 +315,14 @@ module.exports = knex => {
         info.brand = product.brand;
 
         // image
-        let image_url = null;
-        let possible_image_url = images.find(img => {
+        let image_uri = null;
+        let possible_image_uri = images.find(img => {
           return img.product === product.api_id;
         });
-        if (possible_image_url) {
-          image_url = possible_image_url.url;
+        if (possible_image_uri) {
+          image_uri = possible_image_uri.url;
         }
-        info.image_url = image_url;
+        info.image_uri = image_uri;
 
         // price
         let price = null;
