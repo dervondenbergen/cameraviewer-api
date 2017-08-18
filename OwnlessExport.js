@@ -366,9 +366,11 @@ module.exports = knex => {
         switch (type) {
           case "camera":
             remainingSpecs = getCameraSpecs(specs);
+            info.category_id = 1;
             break;
           case "lens":
             remainingSpecs = getLensSpecs(specs);
+            info.category_id = 4;
             break;
         }
         Object.assign(info, remainingSpecs);
